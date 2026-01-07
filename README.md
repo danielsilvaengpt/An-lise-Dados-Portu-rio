@@ -45,30 +45,4 @@ Os scripts Python implementam lógicas robustas de tratamento de dados:
 * SQL Server e MySQL instalados.
 * Bibliotecas Python: `mysql-connector-python`, `pyodbc`.
 
-### Instalação
-1.  Clone o repositório:
-    ```bash
-    git clone [https://github.com/teu-utilizador/port-analytics-dss.git](https://github.com/teu-utilizador/port-analytics-dss.git)
-    ```
-2.  Instale as dependências:
-    ```bash
-    pip install -r requirements.txt
-    ```
-3.  Execute o script SQL em `sql/FlocoNeve_CREATE.sql` para criar a estrutura no SQL Server.
-4.  Configure as variáveis de ambiente (ver secção abaixo) e execute os scripts ETL na pasta `src/`.
 
-### Configuração (.env)
-Crie um ficheiro `.env` na raiz do projeto com as credenciais da base de dados (não utilize credenciais reais no código):
-
-```env
-MYSQL_HOST=127.0.0.1
-MYSQL_PORT=3306
-MYSQL_USER=root
-MYSQL_PWD=sua_password_mysql
-MYSQL_DB=TP_G2
-
-MSSQL_HOST=127.0.0.1
-MSSQL_PORT=1433
-MSSQL_USER=sa
-MSSQL_PWD=sua_password_mssql
-MSSQL_DB=TP_G2_Viagens
