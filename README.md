@@ -23,8 +23,9 @@ O esquema inclui as seguintes dimensões:
 * **Condutor:** Dados demográficos e certificações.
 * **Tipo_Viagem & ClasseDuração:** Categorização operacional.
 
-![Diagrama do Modelo de Dados](docs/diagrama_modelo.png)
-*(Nota: Substituir este caminho pela imagem real do diagrama do relatório)*
+![Diagrama do Modelo de Dados]
+<img width="1105" height="722" alt="image" src="https://github.com/user-attachments/assets/d258a713-1fc7-481a-8f66-560d7aeb4110" />
+
 
 ## 🔧 Tecnologias Utilizadas
 * **Python:** Scripting de ETL (Extração, Transformação e Carga).
