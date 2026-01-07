@@ -1,0 +1,501 @@
+﻿idviagem;taxa;datapartida;datachegada;cidade_origem;pais_origem;cidade_destino;pais_destino;nomecondutor;idadecondutor;certificacao;nomebarco;tipobarco;capacidadeteu;sexo;numerocontentares;peso
+1;1927,13;16/11/2024;04/01/2025;Kovdor;Russia;FigueiraDaFoz;Portugal;Walther Ingrem;27;STCW A-II/2;MT Argonauta 722;graneleiro;15464;M;14740;60050
+2;18580,21;01/05/2024;19/06/2024;Ḑawrān ad Daydah;Yemen;FigueiraDaFoz;Portugal;Jaquenetta Jacobson;27;Pilotage;MV-LUS-0013;graneleiro;7410;M;7025;126370
+3;30347,55;27/04/2024;16/05/2024;Mobaye;Central African Republic;FigueiraDaFoz;Portugal;Erika Lineen;41;CoC Class 2;MV-GLO-0341;petroleiro;18355;M;4793;73883
+4;11152,87;10/05/2025;14/06/2025;Machala;Ecuador;FigueiraDaFoz;Portugal;Gratiana Bendel;36;CoC Class 2;MV-GLO-0341;graneleiro;8664;F;4526;123437
+5;47746,17;18/03/2025;01/05/2025;Boli;China;FigueiraDaFoz;Portugal;Dorolice Jewson;40;CoC Class 2;NS Lusitania 997;petroleiro;15871;M;2958;198206
+6;27,9;31/07/2025;29/08/2025;Stara Kornica;Poland;FigueiraDaFoz;Portugal;Adrian Masserel;36;STCW A-II/2;MV-GLO-0341;petroleiro;1916;M;7042;108367
+7;33642,89;20/03/2025;09/04/2025;Paradyż;Poland;FigueiraDaFoz;Portugal;Estelle Blancowe;43;STCW A-II/1;MV-LUS-0013;cargueiro;2469;M;8886;58330
+8;12065,79;28/12/2025;16/02/2026;Kirkton;United Kingdom;FigueiraDaFoz;Portugal;Kristofor Janacek;19;Yachtmaster;MV-GLO-0341;cargueiro;14570;F;9621;142834
+9;42118,96;23/01/2024;03/02/2024;Babug;Philippines;FigueiraDaFoz;Portugal;Peggie Fletham;45;CoC Class 1;MV Atlântida 390;cargueiro;8405;M;19093;102732
+10;24368,64;31/08/2024;08/10/2024;Marinilla;Colombia;FigueiraDaFoz;Portugal;Cassandry Burgon;46;Pilotage;MV Argonauta 734;petroleiro;19191;F;11336;138393
+11;3587,32;20/08/2024;17/09/2024;Zagreb;Croatia;FigueiraDaFoz;Portugal;Sharai Hamsley;62;CoC Class 1;MV-ORI-0025;graneleiro;6323;M;12277;104872
+12;14320,14;29/03/2025;09/04/2025;Khon Kaen;Thailand;FigueiraDaFoz;Portugal;Cassey Duinbleton;33;CoC Class 2;MV Caravela 715;ro-ro;4775;F;11726;118430
+13;32813,72;24/11/2024;29/12/2024;Baomin;China;FigueiraDaFoz;Portugal;Mathian Wrightson;29;Yachtmaster;MV-ORI-0025;graneleiro;14987;F;19556;176977
+14;21506,21;07/10/2025;25/10/2025;Ágios Andréas;Greece;FigueiraDaFoz;Portugal;Emmie Bowcher;21;STCW A-II/2;MV-TAG-0363;container;18103;F;19511;32159
+15;1941,31;31/05/2025;18/06/2025;Guijalo;Philippines;FigueiraDaFoz;Portugal;Hobey Spires;35;STCW A-II/2;MV Atlântida 390;container;18304;F;4634;148367
+16;27487,91;15/06/2024;19/07/2024;Ţāmiyah;Egypt;FigueiraDaFoz;Portugal;Lissi Leask;65;Pilotage;MV-NEP-0528;ro-ro;19071;F;18742;54252
+17;30943,83;18/08/2025;22/09/2025;Babakan;Indonesia;FigueiraDaFoz;Portugal;Hildagard Jentin;52;Pilotage;MV Caravela 715;graneleiro;13054;M;17613;63975
+18;44305,78;16/06/2024;26/07/2024;Qiziltepa Shahri;Uzbekistan;FigueiraDaFoz;Portugal;Koressa Pennoni;63;Yachtmaster;MV Argonauta 734;cargueiro;9081;M;11877;22832
+19;7614,46;11/08/2025;23/08/2025;Makoba;Botswana;FigueiraDaFoz;Portugal;Aindrea Mahaddy;37;Yachtmaster;MV-LUS-0013;graneleiro;7660;F;4236;106746
+20;34805,12;04/02/2024;01/03/2024;Xilin;China;FigueiraDaFoz;Portugal;Merna Espinel;49;STCW A-II/1;MV Caravela 715;cargueiro;8421;F;5379;99560
+21;26331,96;19/11/2025;29/11/2025;Bắc Kạn;Vietnam;FigueiraDaFoz;Portugal;Jodie Wyson;26;CoC Class 1;NS Lusitania 997;graneleiro;13653;F;78;125337
+22;11263,76;03/11/2024;03/12/2024;Eindhoven;Netherlands;FigueiraDaFoz;Portugal;Camile Darmody;54;Pilotage;MV-LUS-0013;container;19739;F;6499;3996
+23;13649,39;16/07/2024;31/08/2024;Edson;Canada;FigueiraDaFoz;Portugal;Hamilton Dobrowolski;64;STCW A-II/1;NS Lusitania 997;ro-ro;6063;F;3925;32136
+24;44129,47;25/07/2024;15/08/2024;Boto;Indonesia;FigueiraDaFoz;Portugal;Chryste Clampe;20;STCW A-II/2;MV-ORI-0025;graneleiro;5868;M;3608;134599
+25;9244,22;05/01/2025;06/02/2025;Liping;China;FigueiraDaFoz;Portugal;Sonnie Pomphrey;26;CoC Class 1;NS Lusitania 997;container;910;M;19051;84624
+26;25619,48;22/08/2024;22/09/2024;Starobachaty;Russia;FigueiraDaFoz;Portugal;Sheree Mc Gorley;21;STCW A-II/1;MT Argonauta 722;graneleiro;8436;M;5831;84831
+27;45276,79;05/09/2024;18/10/2024;Dolní Libina;Czech Republic;FigueiraDaFoz;Portugal;Gerta Machin;28;STCW A-II/2;MV-GLO-0045;ro-ro;14779;F;9666;8241
+28;32502,9;14/07/2025;11/08/2025;Jardoeira;Portugal;FigueiraDaFoz;Portugal;Lois Wivell;20;STCW A-II/2;MV-LUS-0570;petroleiro;13145;M;9739;119192
+29;32006,34;03/05/2024;24/06/2024;Knin;Croatia;FigueiraDaFoz;Portugal;Colin Shirer;63;CoC Class 2;MV Argonauta 734;ro-ro;496;M;18468;144269
+30;8238,29;19/04/2025;30/04/2025;Kuandian;China;FigueiraDaFoz;Portugal;Inge Humphery;25;STCW A-II/2;MV Atlântida 605;ro-ro;7106;F;11352;24297
+31;478,52;20/02/2024;03/04/2024;Berlin;Germany;FigueiraDaFoz;Portugal;Bobbee Sprosson;54;STCW A-II/2;MV-LUS-0013;petroleiro;10827;F;4413;125152
+32;122,71;17/10/2024;15/12/2024;Ressano Garcia;Mozambique;FigueiraDaFoz;Portugal;Kristos Coogan;54;CoC Class 1;MV-TAG-0363;container;4697;F;7453;177515
+33;30099,18;05/05/2025;22/06/2025;Mahābād;Iran;FigueiraDaFoz;Portugal;Rafferty Jayes;56;STCW A-II/1;MV Atlântida 390;cargueiro;857;M;12496;29394
+34;14142,83;22/09/2024;30/09/2024;Shanxiahu;China;FigueiraDaFoz;Portugal;Brendon Vaneev;21;Yachtmaster;MV Atlântida 605;ro-ro;6773;F;2659;130713
+35;35120,57;12/05/2024;27/05/2024;Świecie;Poland;FigueiraDaFoz;Portugal;Timoteo Hukins;49;Yachtmaster;MV Argonauta 734;container;16397;F;8657;148461
+36;4940,97;17/08/2024;13/09/2024;Kuala Lumpur;Malaysia;FigueiraDaFoz;Portugal;Amandie Tabourin;42;CoC Class 2;MV-GLO-0341;cargueiro;14665;F;7499;93139
+37;9247,94;21/06/2025;24/07/2025;Mo I Rana;Norway;FigueiraDaFoz;Portugal;Jillian Gisburn;39;CoC Class 1;MV Atlântida 390;cargueiro;14501;F;1964;177856
+38;29740,39;03/04/2024;04/05/2024;Shihui;China;FigueiraDaFoz;Portugal;Quintin Lidell;58;STCW A-II/2;MV-LUS-0013;graneleiro;12709;M;13470;113956
+39;32990,92;11/01/2025;28/01/2025;Oeleu;Indonesia;FigueiraDaFoz;Portugal;Bogart Bettis;40;Pilotage;MV-NEP-0528;graneleiro;4845;F;13021;116257
+40;2707,71;08/12/2024;30/01/2025;Ipuh;Indonesia;FigueiraDaFoz;Portugal;Torey Gile;31;STCW A-II/2;MV-GLO-0341;cargueiro;4298;F;15366;11796
+41;32828,21;18/12/2025;14/01/2026;Kombolcha;Ethiopia;FigueiraDaFoz;Portugal;Cherlyn Kerrich;57;STCW A-II/1;MV-GLO-0046;container;19271;F;15786;59326
+42;4684,4;12/04/2025;21/04/2025;Bolesławiec;Poland;FigueiraDaFoz;Portugal;Daniella Janatka;35;Pilotage;MV-LUS-0013;petroleiro;4366;F;13949;183214
+43;19439,07;29/09/2025;26/11/2025;Pagedangan;Indonesia;FigueiraDaFoz;Portugal;Huntley Bettis;35;CoC Class 1;MV-GLO-0045;ro-ro;8206;M;2442;3432
+44;38089,98;19/10/2025;06/12/2025;Krajan Bakalan;Indonesia;FigueiraDaFoz;Portugal;Inigo Moncur;40;CoC Class 1;MV Atlântida 390;container;5324;M;12734;169384
+45;21249,33;14/12/2025;07/01/2026;Xiaowuzhan;China;FigueiraDaFoz;Portugal;Lewie Greenfield;47;CoC Class 1;MV-GLO-0341;petroleiro;8;F;14760;7729
+46;17681,93;13/07/2025;27/07/2025;Bagani;Namibia;FigueiraDaFoz;Portugal;Alayne Forcer;63;STCW A-II/2;MV-LUS-0013;ro-ro;14495;F;7402;49985
+47;38492,18;18/02/2025;07/03/2025;Malausma Kidul;Indonesia;FigueiraDaFoz;Portugal;Esmeralda Fowkes;40;STCW A-II/2;MV Atlântida 605;cargueiro;6445;F;8208;69861
+48;33776,26;27/05/2024;06/06/2024;Ballyboden;Ireland;FigueiraDaFoz;Portugal;Thorsten Lounds;54;STCW A-II/2;MV-GLO-0046;petroleiro;7307;M;14057;14472
+49;37733,97;27/06/2025;26/07/2025;Sundsvall;Sweden;FigueiraDaFoz;Portugal;Harriott Pellant;45;Yachtmaster;MV-GLO-0045;petroleiro;19263;F;19533;103549
+50;35907,85;02/04/2025;27/04/2025;Staryy Dobrotvir;Ukraine;FigueiraDaFoz;Portugal;Natassia Ferrettino;59;STCW A-II/1;MV-LUS-0013;cargueiro;9474;M;4599;66833
+51;20675,59;06/08/2024;06/09/2024;Daqingshan;China;FigueiraDaFoz;Portugal;Marsha Reilinger;59;Yachtmaster;MV Atlântida 605;container;1967;M;19127;49452
+52;34268,96;05/03/2025;20/03/2025;Sanyi;China;FigueiraDaFoz;Portugal;Cher Mitrikhin;61;CoC Class 2;MV-LUS-0493;petroleiro;16155;F;7516;131132
+53;30038,09;04/09/2025;10/09/2025;Malbork;Poland;FigueiraDaFoz;Portugal;Andras Cancellor;40;CoC Class 2;MV-LUS-0493;petroleiro;14906;F;2014;159776
+54;10929,38;09/04/2025;12/05/2025;Blatnica;Bosnia and Herzegovina;FigueiraDaFoz;Portugal;Tabby Foker;56;STCW A-II/1;NS Lusitania 997;graneleiro;14121;M;4738;93951
+55;5245,79;07/12/2025;23/01/2026;Carmen;Philippines;FigueiraDaFoz;Portugal;Liuka Pee;52;STCW A-II/1;MV Atlântida 390;petroleiro;11192;M;5508;170528
+56;18002,91;07/07/2025;03/08/2025;Rungis;France;FigueiraDaFoz;Portugal;Evelyn Cherrett;51;CoC Class 2;MV-GLO-0341;ro-ro;4812;M;12079;67763
+57;24649,64;12/04/2025;24/04/2025;Batuan;China;FigueiraDaFoz;Portugal;Torrey Wasteney;26;Yachtmaster;MV-GLO-0046;ro-ro;12817;M;7285;183269
+58;42812,04;21/06/2024;27/07/2024;Torbay;Canada;FigueiraDaFoz;Portugal;Berta Hobben;64;STCW A-II/1;MV Argonauta 734;ro-ro;14475;F;4672;102643
+59;2546,69;11/02/2024;26/03/2024;Voorburg;Netherlands;FigueiraDaFoz;Portugal;Felicia MacGinlay;23;STCW A-II/1;MV-GLO-0046;petroleiro;15543;F;1779;180672
+60;22637,69;22/11/2024;09/01/2025;Buracan;Philippines;FigueiraDaFoz;Portugal;Thalia Platts;44;CoC Class 2;MV Atlântida 605;container;5728;M;1048;2740
+61;19989,31;13/11/2024;20/12/2024;Iwaki;Japan;FigueiraDaFoz;Portugal;Legra Christescu;29;CoC Class 1;MV Caravela 715;petroleiro;13889;F;3837;70200
+62;9346,06;21/02/2025;05/03/2025;Krajan Karangsari;Indonesia;FigueiraDaFoz;Portugal;Beryl Harken;50;Pilotage;MT Argonauta 722;graneleiro;8283;M;13110;155979
+63;46588,21;18/11/2024;12/01/2025;Prachatice;Czech Republic;FigueiraDaFoz;Portugal;Hendrika Emblem;28;CoC Class 1;NS Lusitania 997;container;10144;M;17295;128011
+64;40733,01;18/03/2024;14/05/2024;Kende;Nigeria;FigueiraDaFoz;Portugal;Thibaut Egiloff;26;CoC Class 1;MV-ORI-0025;petroleiro;3616;M;4044;100485
+65;38380,29;11/04/2024;16/05/2024;Beichengqu;China;FigueiraDaFoz;Portugal;Gottfried Springle;42;CoC Class 2;MV-NEP-0528;petroleiro;13203;F;12954;41346
+66;15621,85;11/12/2024;13/01/2025;München;Germany;FigueiraDaFoz;Portugal;Oralee Livard;59;Yachtmaster;MV-LUS-0493;graneleiro;17572;F;3764;155612
+67;41255,33;10/05/2025;11/06/2025;Jepara;Indonesia;FigueiraDaFoz;Portugal;Jaimie Leavens;33;Yachtmaster;MV Caravela 715;ro-ro;12030;F;3876;98043
+68;47607,7;04/04/2024;16/04/2024;Plavsk;Russia;FigueiraDaFoz;Portugal;Yulma Mollison;46;CoC Class 2;MV Atlântida 390;graneleiro;572;F;457;95761
+69;32481,81;27/03/2024;30/04/2024;São Miguel da Carreira;Portugal;FigueiraDaFoz;Portugal;Noel Morison;48;Pilotage;MV Atlântida 605;cargueiro;6552;M;1237;167434
+70;2698,25;01/08/2024;16/08/2024;Langsepan;Indonesia;FigueiraDaFoz;Portugal;Carmelle Rushforth;41;STCW A-II/2;MT Argonauta 722;container;9837;M;17652;5092
+71;26990,57;02/05/2024;15/05/2024;Al Qurayn;Egypt;FigueiraDaFoz;Portugal;Gertrudis Blaycock;49;CoC Class 2;MV-LUS-0570;petroleiro;16750;F;14554;120778
+72;811,35;03/01/2025;03/02/2025;Tehrān;Iran;FigueiraDaFoz;Portugal;Ricca Sergent;51;STCW A-II/1;MV-LUS-0493;graneleiro;7858;M;10590;186041
+73;39393,66;18/08/2024;25/08/2024;Kansas City;United States;FigueiraDaFoz;Portugal;Georas Erwin;42;CoC Class 2;MV-TAG-0363;container;4355;M;18684;42995
+74;28240,11;31/07/2024;26/08/2024;Vera Cruz;Brazil;FigueiraDaFoz;Portugal;Jeri Twiggs;19;CoC Class 2;MV-GLO-0341;ro-ro;9954;F;16882;22089
+75;3762,62;12/12/2024;09/02/2025;Huzhen;China;FigueiraDaFoz;Portugal;Wendeline Wiggins;65;Pilotage;MV-ORI-0025;container;9430;F;19747;133275
+76;30011,84;30/12/2024;25/02/2025;Freiburg im Breisgau;Germany;FigueiraDaFoz;Portugal;Lane McBratney;37;Pilotage;MV-ORI-0025;graneleiro;19834;F;12825;106072
+77;49855,5;22/03/2024;13/05/2024;Bagneux;France;FigueiraDaFoz;Portugal;Wesley Schoales;22;Yachtmaster;MV Atlântida 605;ro-ro;16769;M;5488;106240
+78;44992,5;22/03/2025;13/04/2025;Yambrasbamba;Peru;FigueiraDaFoz;Portugal;Nicky Wauchope;55;Pilotage;MV-GLO-0045;ro-ro;5826;M;17725;127789
+79;42484,68;08/12/2024;19/12/2024;Thayetmyo;Myanmar;FigueiraDaFoz;Portugal;Pinchas Ganforthe;25;Pilotage;MV-ORI-0025;container;4282;M;10988;61125
+80;25855,6;18/01/2025;10/03/2025;Xinhua;China;FigueiraDaFoz;Portugal;Abel Lomansey;24;CoC Class 2;MV-GLO-0341;graneleiro;6417;M;17975;19424
+81;29665,67;29/08/2025;20/09/2025;Miandrarivo;Madagascar;FigueiraDaFoz;Portugal;Law Coddington;33;Pilotage;MV-TAG-0363;graneleiro;12195;M;14016;191356
+82;15066,95;29/06/2025;04/08/2025;Tuchoměřice;Czech Republic;FigueiraDaFoz;Portugal;Jaimie O' Mullan;56;CoC Class 2;MV-NEP-0528;graneleiro;16375;M;19164;165608
+83;41473,38;15/01/2024;10/03/2024;Al Ḩawāmidīyah;Egypt;FigueiraDaFoz;Portugal;Crosby Kunc;31;STCW A-II/1;MV-TAG-0363;graneleiro;9583;F;6677;169045
+84;31200,52;25/01/2024;10/03/2024;Aranguren;Argentina;FigueiraDaFoz;Portugal;Amos Kirsche;55;STCW A-II/2;MV-TAG-0363;graneleiro;8577;F;19307;53035
+85;16312,92;26/12/2025;03/02/2026;Moba;China;FigueiraDaFoz;Portugal;Albertine Ivashov;41;STCW A-II/2;MV-LUS-0493;graneleiro;14512;M;2249;95357
+86;22099,15;19/02/2024;24/02/2024;Tailing;China;FigueiraDaFoz;Portugal;Junie Varley;60;STCW A-II/2;MT Argonauta 722;petroleiro;17437;F;12603;152844
+87;34226,72;25/11/2024;19/01/2025;Yakymivka;Ukraine;FigueiraDaFoz;Portugal;Marcille Howlin;55;STCW A-II/1;MV-ORI-0025;graneleiro;18181;M;14561;119223
+88;43442,88;30/10/2024;26/11/2024;Khlong Yai;Thailand;FigueiraDaFoz;Portugal;Aymer Carney;31;CoC Class 2;MV Atlântida 390;cargueiro;678;M;3748;196801
+89;21991,53;26/04/2025;04/06/2025;Aguadulce;Panama;FigueiraDaFoz;Portugal;Suzette Abbado;38;Yachtmaster;MV-GLO-0045;ro-ro;1007;F;558;82532
+90;26060,99;06/10/2024;19/10/2024;Bergen;Norway;FigueiraDaFoz;Portugal;Reiko Copp;53;STCW A-II/1;MV-LUS-0013;ro-ro;13018;F;9038;28445
+91;47484,94;02/07/2024;29/08/2024;Sol’tsy;Russia;FigueiraDaFoz;Portugal;Noak Watmore;38;Yachtmaster;MV-LUS-0013;container;8519;M;10725;150757
+92;12350,61;20/07/2025;21/08/2025;Guanchi;China;FigueiraDaFoz;Portugal;Nikolos Dronsfield;54;STCW A-II/1;MV-NEP-0528;petroleiro;2719;F;10237;178934
+93;10349,52;27/02/2024;19/04/2024;Wailolung;Indonesia;FigueiraDaFoz;Portugal;Elsbeth Outerbridge;53;CoC Class 2;MV-GLO-0341;cargueiro;15082;F;5161;43537
+94;48875,18;06/05/2024;30/05/2024;Kuala Terengganu;Malaysia;FigueiraDaFoz;Portugal;Darcee Eastwell;50;CoC Class 1;MV-LUS-0013;cargueiro;2775;M;12512;70698
+95;44049,1;02/02/2024;26/02/2024;Al Burayqah;Libya;FigueiraDaFoz;Portugal;Amandy Kiltie;44;Pilotage;MV-ORI-0025;petroleiro;3373;M;4436;45207
+96;4815,74;02/05/2025;25/05/2025;Ōbu;Japan;FigueiraDaFoz;Portugal;Catie Mieville;21;STCW A-II/1;MV Atlântida 605;container;14634;F;11237;199333
+97;25469,63;29/02/2024;12/03/2024;Huayuan;China;FigueiraDaFoz;Portugal;Norman Gligorijevic;41;STCW A-II/2;MV-LUS-0013;ro-ro;7960;M;8285;99255
+98;23817,32;12/04/2025;22/05/2025;Sabaneta;Venezuela;FigueiraDaFoz;Portugal;Addi Eisig;53;CoC Class 2;MV-TAG-0363;ro-ro;12469;M;4993;25940
+99;43003,07;11/08/2024;06/10/2024;Santiago;Paraguay;FigueiraDaFoz;Portugal;Eal Rintoul;26;STCW A-II/1;MV Atlântida 605;ro-ro;10774;M;1410;20654
+100;35872,1;28/05/2024;08/06/2024;Mmathubudukwane;Botswana;FigueiraDaFoz;Portugal;Bobbe O' Mara;70;STCW A-II/1;NS Lusitania 997;ro-ro;1472;M;19282;82106
+101;8265,57;01/12/2024;20/12/2024;Saint John;Malta;FigueiraDaFoz;Portugal;Timothea McMonnies;70;Yachtmaster;MV Atlântida 605;container;1212;M;5670;63686
+102;22376,77;31/07/2024;25/09/2024;Pameungpeuk;Indonesia;FigueiraDaFoz;Portugal;Elie Ingledew;43;STCW A-II/1;NS Lusitania 997;cargueiro;4553;M;3045;35472
+103;42737,25;22/02/2024;10/03/2024;Koina;Gambia;FigueiraDaFoz;Portugal;Dyanna Giovannoni;40;Pilotage;MV-GLO-0341;graneleiro;1957;M;9748;125017
+104;47173,18;04/05/2025;30/05/2025;Lleida;Spain;FigueiraDaFoz;Portugal;Yalonda Gyver;63;CoC Class 1;MV Caravela 715;container;6326;F;7052;126508
+105;23960,7;08/10/2025;25/10/2025;Perho;Finland;FigueiraDaFoz;Portugal;Elias Biskupiak;27;CoC Class 2;MV-TAG-0363;container;13808;M;3616;156234
+106;8640,44;22/08/2024;01/09/2024;Skhodnya;Russia;FigueiraDaFoz;Portugal;Fredrick Ilyas;47;Pilotage;MV Atlântida 605;ro-ro;17898;M;15542;110016
+107;40197,75;08/10/2024;12/11/2024;Zaoxi;China;FigueiraDaFoz;Portugal;Murielle Dusting;18;STCW A-II/2;MV Atlântida 390;ro-ro;18485;F;3348;53123
+108;47032,32;03/05/2025;18/06/2025;Lop;China;FigueiraDaFoz;Portugal;Morgun Lightowler;70;CoC Class 2;MV-GLO-0341;graneleiro;16656;F;13514;17063
+109;24980,6;29/04/2024;27/06/2024;Ḩabīl ar Raydah;Yemen;FigueiraDaFoz;Portugal;Brent Vicent;57;Pilotage;MV-LUS-0570;ro-ro;12803;M;14660;67025
+110;46993,72;04/04/2025;16/04/2025;Nobres;Brazil;FigueiraDaFoz;Portugal;Kellby Matschek;46;STCW A-II/1;MV-ORI-0025;ro-ro;15782;F;13517;188096
+111;15851,79;13/05/2024;14/06/2024;Biruinţa;Moldova;FigueiraDaFoz;Portugal;Becka Gledhill;33;STCW A-II/2;MV-LUS-0013;graneleiro;6601;M;11142;156324
+112;19036,82;05/09/2024;09/10/2024;Robertsfors;Sweden;FigueiraDaFoz;Portugal;Trenna Shelton;33;Pilotage;MV Atlântida 605;cargueiro;911;M;9977;144411
+113;10823,56;06/11/2024;29/11/2024;Sosnovo-Ozerskoye;Russia;FigueiraDaFoz;Portugal;Robers McGonigle;43;CoC Class 2;NS Lusitania 997;petroleiro;12027;F;3125;136520
+114;43167,37;03/05/2025;15/05/2025;Funehikimachi-funehiki;Japan;FigueiraDaFoz;Portugal;Myranda Dennett;55;STCW A-II/1;MV-LUS-0493;cargueiro;1832;F;11504;33503
+115;2444,58;31/10/2025;26/12/2025;Burrel;Albania;FigueiraDaFoz;Portugal;Arlena Clawe;51;Pilotage;MV Caravela 715;cargueiro;2970;F;12436;104070
+116;16730,38;04/04/2025;27/04/2025;Eastern Suburbs Mc;Australia;FigueiraDaFoz;Portugal;Melva De Lascy;53;CoC Class 1;MV-TAG-0363;cargueiro;13808;F;16354;94074
+117;29429,41;04/08/2025;03/09/2025;Winburg;South Africa;FigueiraDaFoz;Portugal;Haven Allston;33;Pilotage;MV Caravela 715;cargueiro;16825;F;16345;41630
+118;42950,16;04/07/2024;14/07/2024;Liaodian;China;FigueiraDaFoz;Portugal;Sissie Ellit;49;STCW A-II/1;MV-ORI-0025;cargueiro;8692;F;13033;123218
+119;12364,36;07/09/2025;14/10/2025;Cluses;France;FigueiraDaFoz;Portugal;Grata Milne;57;Pilotage;MV-GLO-0046;graneleiro;15929;M;1684;179711
+120;21892,68;13/12/2025;21/12/2025;Borovikha;Russia;FigueiraDaFoz;Portugal;Skell Diddams;38;Yachtmaster;MV-LUS-0570;ro-ro;6517;F;2429;46204
+121;46408,05;08/03/2024;30/04/2024;Jiudu;China;FigueiraDaFoz;Portugal;Patti Mattacks;49;STCW A-II/2;MV-LUS-0013;ro-ro;6080;F;9739;193327
+122;37403,51;20/04/2025;04/05/2025;Nusajaya;Malaysia;FigueiraDaFoz;Portugal;Osmund Cabell;24;CoC Class 1;MV Atlântida 390;ro-ro;7984;F;11680;192171
+123;15422,47;16/10/2025;23/11/2025;Liběšice;Czech Republic;FigueiraDaFoz;Portugal;Sonnie De Paoli;34;Pilotage;MV Caravela 715;graneleiro;14018;F;5932;176637
+124;17102,71;10/10/2024;29/11/2024;Saint-Avertin;France;FigueiraDaFoz;Portugal;Holden Joye;54;STCW A-II/1;MV Caravela 715;container;10426;M;16937;88476
+125;5350,07;04/05/2024;11/06/2024;Sumbuya;Sierra Leone;FigueiraDaFoz;Portugal;Elisabeth Derell;31;CoC Class 2;MV Atlântida 605;graneleiro;4619;F;12468;147449
+126;21059,45;03/02/2024;25/03/2024;Dabola;Guinea;FigueiraDaFoz;Portugal;Carlos Hakeworth;29;Pilotage;NS Lusitania 997;cargueiro;6790;F;547;121784
+127;40175,73;15/05/2024;05/07/2024;Saint-Louis du Nord;Haiti;FigueiraDaFoz;Portugal;Jamie Bamsey;70;STCW A-II/1;MV Atlântida 390;container;16248;F;5007;116851
+128;45336,44;23/03/2024;14/04/2024;Sviblovo;Russia;FigueiraDaFoz;Portugal;Gray Pecha;47;CoC Class 1;MV Atlântida 605;cargueiro;13117;M;5310;182115
+129;33869,95;18/07/2024;29/07/2024;San Pa Tong;Thailand;FigueiraDaFoz;Portugal;Cale Neno;36;Pilotage;NS Lusitania 997;ro-ro;15940;F;15384;132581
+130;17420,39;03/08/2025;03/09/2025;Rengat;Indonesia;FigueiraDaFoz;Portugal;Chrysler Morena;45;Yachtmaster;NS Lusitania 997;container;383;M;6439;74415
+131;41741,75;08/02/2024;21/03/2024;Casal Novo;Portugal;FigueiraDaFoz;Portugal;Alister McGloin;34;STCW A-II/1;MV Argonauta 734;graneleiro;9138;F;15180;24736
+132;25069,58;02/09/2024;19/09/2024;Kasese;Uganda;FigueiraDaFoz;Portugal;Sallee Maciejewski;26;CoC Class 2;MV Caravela 715;graneleiro;10510;M;19981;103303
+133;12697,87;15/03/2024;17/04/2024;Energeticheskiy;Kazakhstan;FigueiraDaFoz;Portugal;Legra Paolazzi;42;STCW A-II/2;MV-LUS-0013;petroleiro;1113;F;3064;11425
+134;48960,92;06/10/2025;12/11/2025;Vrtojba;Slovenia;FigueiraDaFoz;Portugal;Trudi Tolussi;30;CoC Class 1;MT Argonauta 722;graneleiro;16341;M;13518;53374
+135;42313,69;12/11/2025;17/12/2025;Cagliari;Italy;FigueiraDaFoz;Portugal;Staci Keers;47;Pilotage;MV-GLO-0341;ro-ro;16654;M;5911;100002
+136;43350,58;16/08/2024;11/09/2024;Ourtzagh;Morocco;FigueiraDaFoz;Portugal;Lindsy Brend;39;STCW A-II/2;MV-LUS-0013;container;8220;F;8612;60692
+137;21344,99;11/09/2024;22/10/2024;Warmbaths;South Africa;FigueiraDaFoz;Portugal;Galven MacIan;47;CoC Class 2;MV-GLO-0045;cargueiro;15935;F;8121;117433
+138;6751,72;13/02/2024;29/03/2024;Lainqu;China;FigueiraDaFoz;Portugal;Sophey Dobie;67;Pilotage;MT Argonauta 722;petroleiro;14130;F;18924;59741
+139;41277,26;03/01/2024;13/01/2024;Sonzacate;El Salvador;FigueiraDaFoz;Portugal;Artie Kersting;51;CoC Class 2;MV Atlântida 390;ro-ro;8369;F;16379;99534
+140;36389,87;17/09/2024;31/10/2024;Benjamin Constant;Brazil;FigueiraDaFoz;Portugal;Gayle Kilian;19;Yachtmaster;MV-TAG-0363;cargueiro;3260;M;17330;71750
+141;1316,58;13/05/2024;05/06/2024;Šmartno pri Litiji;Slovenia;FigueiraDaFoz;Portugal;Heda Perryn;67;Yachtmaster;MV-ORI-0025;petroleiro;11443;M;2063;106995
+142;20234,09;19/05/2024;11/06/2024;Zhoupu;China;FigueiraDaFoz;Portugal;Shari Paggitt;47;Pilotage;MV-LUS-0570;graneleiro;16481;M;7567;4519
+143;36792,21;17/09/2025;29/09/2025;Korogan Timur;Indonesia;FigueiraDaFoz;Portugal;Wang Arbor;62;STCW A-II/1;MV-LUS-0013;ro-ro;7110;F;5916;128804
+144;35599,78;26/12/2024;20/01/2025;Santa Teresa;Nicaragua;FigueiraDaFoz;Portugal;Sergeant Heal;61;CoC Class 1;MV Caravela 715;ro-ro;4696;M;4836;109740
+145;45599,41;27/06/2025;15/08/2025;Ghouazi;Morocco;FigueiraDaFoz;Portugal;Blondy Janusz;64;Pilotage;MV-ORI-0025;container;17000;M;977;77539
+146;18674,59;25/04/2024;16/05/2024;Tosno;Russia;FigueiraDaFoz;Portugal;Lu Clemenson;49;CoC Class 2;MV-ORI-0025;cargueiro;13591;M;15197;102177
+147;49435,07;15/12/2024;30/01/2025;Härnösand;Sweden;FigueiraDaFoz;Portugal;Mahmoud Chalfain;18;CoC Class 2;MV-NEP-0528;petroleiro;19960;F;14607;19850
+148;15788,46;29/12/2025;12/02/2026;Ivyanyets;Belarus;FigueiraDaFoz;Portugal;Aubrette Oblein;19;CoC Class 1;MV Caravela 715;graneleiro;7043;F;11859;23234
+149;45945,47;22/09/2024;12/11/2024;Bella Vista;Paraguay;FigueiraDaFoz;Portugal;Claudell Glaum;31;Yachtmaster;MV Atlântida 605;cargueiro;6111;F;4839;148877
+150;22664,32;05/05/2025;05/06/2025;Mumen;China;FigueiraDaFoz;Portugal;Maybelle Kirvin;43;CoC Class 2;MV-LUS-0570;ro-ro;11461;F;6012;25075
+151;28504,61;20/11/2024;07/01/2025;Darungan;Indonesia;FigueiraDaFoz;Portugal;Bobine Doubrava;29;Yachtmaster;MV-NEP-0528;container;4597;F;7584;187083
+152;21746,08;10/07/2025;19/07/2025;Fort Liberté;Haiti;FigueiraDaFoz;Portugal;Euell Raftery;46;STCW A-II/2;MV-LUS-0013;container;11139;F;218;22280
+153;9244,28;20/05/2025;31/05/2025;Welibo;Indonesia;FigueiraDaFoz;Portugal;Marietta Fiennes;37;CoC Class 1;MV-ORI-0025;graneleiro;7512;F;18281;66333
+154;25687,89;17/03/2025;29/03/2025;Al Hāshimīyah;Palestinian Territory;FigueiraDaFoz;Portugal;Hayden Daal;42;CoC Class 2;MV Caravela 715;petroleiro;1204;F;149;14479
+155;12234,52;28/04/2025;09/06/2025;Paranho;Portugal;FigueiraDaFoz;Portugal;Suzette Carpe;58;STCW A-II/1;MV-ORI-0025;container;6823;F;13648;172509
+156;21946,49;20/01/2024;01/03/2024;Madrid;Spain;FigueiraDaFoz;Portugal;Alwin Howes;58;Pilotage;MT Argonauta 722;ro-ro;14091;M;15977;42737
+157;15539,3;07/09/2025;31/10/2025;Bandhagen;Sweden;FigueiraDaFoz;Portugal;Sheelah Shovlar;35;STCW A-II/2;NS Lusitania 997;container;13655;M;8717;111644
+158;49510,92;04/01/2025;01/02/2025;Jandir;Indonesia;FigueiraDaFoz;Portugal;Quintana Mabbott;41;STCW A-II/2;MV-LUS-0493;graneleiro;19869;M;12415;18736
+159;7171,76;12/07/2025;11/08/2025;Herrera;Argentina;FigueiraDaFoz;Portugal;Nancie Durant;69;Pilotage;MV-TAG-0363;graneleiro;2290;M;17404;87864
+160;13301,6;17/11/2025;30/12/2025;High Point;United States;FigueiraDaFoz;Portugal;Hinze Lindop;20;STCW A-II/1;MV Atlântida 605;cargueiro;5662;M;9026;142097
+161;15305,89;12/01/2025;04/02/2025;Krylovskaya;Russia;FigueiraDaFoz;Portugal;Angelita Witherop;20;CoC Class 1;MV-LUS-0013;ro-ro;12428;M;350;19185
+162;26469,39;26/08/2024;18/10/2024;Ngembul;Indonesia;FigueiraDaFoz;Portugal;Cleon Billany;49;STCW A-II/2;MT Argonauta 722;graneleiro;9789;F;19915;76337
+163;28329,52;11/08/2025;04/10/2025;Yanmenguan;China;FigueiraDaFoz;Portugal;Cherey Oxshott;24;CoC Class 1;MV-LUS-0013;cargueiro;4002;F;15744;182863
+164;41972,44;02/11/2025;26/11/2025;Klos;Albania;FigueiraDaFoz;Portugal;Carmelle Schwandt;21;Pilotage;MV-LUS-0570;graneleiro;6352;F;2664;92723
+165;31304,74;16/06/2025;31/07/2025;Pavliš;Serbia;FigueiraDaFoz;Portugal;Correy Calcut;30;Yachtmaster;MV-ORI-0025;cargueiro;13858;M;6285;181178
+166;3473,4;10/11/2025;27/12/2025;Kranuan;Thailand;FigueiraDaFoz;Portugal;Brooke Paramore;27;Pilotage;MV-GLO-0045;ro-ro;16681;F;13186;88816
+167;49731,93;06/10/2024;13/11/2024;Xinhua;China;FigueiraDaFoz;Portugal;Kissiah Blackler;57;STCW A-II/1;MV-LUS-0493;ro-ro;6765;F;7867;88860
+168;15702,8;05/04/2025;20/05/2025;Torrance;United States;FigueiraDaFoz;Portugal;Cal Wrightem;42;CoC Class 2;MT Argonauta 722;cargueiro;16435;M;18829;95221
+169;21106,03;19/12/2025;24/01/2026;Cuijiaqiao;China;FigueiraDaFoz;Portugal;Pavel Siggins;50;Yachtmaster;MV Atlântida 605;container;19106;F;15494;194171
+170;44899,16;08/06/2024;16/07/2024;Bang Ban;Thailand;FigueiraDaFoz;Portugal;Jorie Tupp;29;Pilotage;MV-LUS-0570;cargueiro;30;F;8830;130405
+171;10409,24;11/03/2024;05/05/2024;Xiehu;China;FigueiraDaFoz;Portugal;Calypso Virgoe;56;CoC Class 2;MV Atlântida 390;container;16382;F;13700;106788
+172;40447,18;02/07/2025;13/07/2025;Tawangsari;Indonesia;FigueiraDaFoz;Portugal;Rudie Southon;24;CoC Class 1;MV-GLO-0045;graneleiro;11748;F;630;129992
+173;6422,28;18/09/2025;26/10/2025;Houmen;China;FigueiraDaFoz;Portugal;Garry Cowherd;18;STCW A-II/2;MT Argonauta 722;graneleiro;7924;F;6502;110143
+174;11089,03;04/01/2025;26/01/2025;Skara;Sweden;FigueiraDaFoz;Portugal;Dori Biaggiotti;65;CoC Class 1;MV-LUS-0013;petroleiro;13175;F;7953;114223
+175;27668,64;23/12/2024;17/01/2025;Yangxu;China;FigueiraDaFoz;Portugal;Maridel Stoner;25;CoC Class 2;NS Lusitania 997;graneleiro;13476;F;5974;53011
+176;27359,66;17/03/2024;08/04/2024;Badung;Indonesia;FigueiraDaFoz;Portugal;Keene Mitchelson;60;CoC Class 2;NS Lusitania 997;graneleiro;5645;M;18817;99922
+177;45446,34;23/11/2024;08/01/2025;Tongle;China;FigueiraDaFoz;Portugal;Albie Martlew;47;Yachtmaster;NS Lusitania 997;graneleiro;7898;F;5634;30520
+178;16869,61;17/07/2024;09/09/2024;Železný Brod;Czech Republic;FigueiraDaFoz;Portugal;Tallou Sleeny;22;CoC Class 1;MV Atlântida 605;cargueiro;13076;F;12616;128944
+179;48100,54;21/02/2025;20/03/2025;Ash Shaykh ‘Uthmān;Yemen;FigueiraDaFoz;Portugal;Agathe Gawler;54;STCW A-II/1;MV Atlântida 605;cargueiro;14113;F;1647;139183
+180;45636,37;19/02/2024;14/03/2024;Qumudi;China;FigueiraDaFoz;Portugal;Domenic Harken;59;STCW A-II/1;MV-ORI-0025;ro-ro;1412;M;7096;170273
+181;44849,97;07/11/2025;25/11/2025;Bang Krathum;Thailand;FigueiraDaFoz;Portugal;Audy Stephenson;21;STCW A-II/2;MT Argonauta 722;cargueiro;13865;M;6936;85551
+182;11729,09;11/07/2025;28/07/2025;Cimahi;Indonesia;FigueiraDaFoz;Portugal;Burt Brailey;49;CoC Class 1;MV-ORI-0025;ro-ro;6710;M;2799;46453
+183;16545,18;06/05/2025;21/05/2025;Klenica;Poland;FigueiraDaFoz;Portugal;Corri Scane;60;STCW A-II/2;MV-NEP-0528;container;14753;F;13430;88348
+184;4234,56;08/09/2024;20/10/2024;Haumeni;Indonesia;FigueiraDaFoz;Portugal;Mira Tumber;65;Pilotage;MV Atlântida 390;petroleiro;10232;F;7148;61118
+185;4092,87;23/12/2025;14/01/2026;General Galarza;Argentina;FigueiraDaFoz;Portugal;Ellary Slixby;54;STCW A-II/2;MV Argonauta 734;graneleiro;15642;F;12967;143947
+186;21580,15;02/07/2025;27/08/2025;Hannō;Japan;FigueiraDaFoz;Portugal;Crin Keford;59;Yachtmaster;MV-LUS-0013;graneleiro;6949;M;4750;179270
+187;32167,85;22/03/2024;16/04/2024;Zhongzi;China;FigueiraDaFoz;Portugal;Britte Kesterton;64;CoC Class 1;NS Lusitania 997;petroleiro;7744;M;3373;181321
+188;29102,56;02/11/2024;27/11/2024;Mulhouse;France;FigueiraDaFoz;Portugal;Gerardo Brumpton;42;Pilotage;MV-LUS-0493;cargueiro;8126;F;1614;27739
+189;47071,99;13/10/2025;20/10/2025;Baro;Philippines;FigueiraDaFoz;Portugal;Giulietta Longworth;24;Pilotage;MV-LUS-0013;petroleiro;12568;F;14258;77246
+190;38423,7;23/09/2024;01/10/2024;Mariquita;Colombia;FigueiraDaFoz;Portugal;D'arcy Neubigin;18;STCW A-II/2;MV-ORI-0025;container;1254;M;16589;186682
+191;17601,06;25/03/2024;09/04/2024;Kolape;Philippines;FigueiraDaFoz;Portugal;Guglielmo Sinott;29;Yachtmaster;NS Lusitania 997;graneleiro;7542;F;17242;14939
+192;24297,68;12/08/2024;17/08/2024;Malo;Indonesia;FigueiraDaFoz;Portugal;Jazmin Spellsworth;65;Pilotage;MV-ORI-0025;petroleiro;8603;F;18646;14485
+193;45610,69;20/03/2024;03/05/2024;Dortmund;Germany;FigueiraDaFoz;Portugal;Gerta Lanahan;66;CoC Class 2;NS Lusitania 997;container;1173;F;13548;185391
+194;16687,45;13/01/2024;18/01/2024;Rabat;Malta;FigueiraDaFoz;Portugal;Editha Edsall;26;CoC Class 2;MV-GLO-0046;petroleiro;18647;F;5932;113922
+195;6518,62;04/08/2024;23/09/2024;Pointe-Noire;Republic of the Congo;FigueiraDaFoz;Portugal;Craggy Colles;20;CoC Class 2;MV-NEP-0528;petroleiro;1114;F;16156;157812
+196;34142,13;24/03/2024;05/04/2024;Qingtaiping;China;FigueiraDaFoz;Portugal;Page Christall;27;Yachtmaster;MV Atlântida 390;petroleiro;10543;F;4603;16239
+197;40090,91;28/09/2024;11/11/2024;Gizo;Solomon Islands;FigueiraDaFoz;Portugal;Suzanne Tremblet;60;STCW A-II/2;MV-GLO-0341;container;16990;M;8980;91964
+198;37083,03;16/08/2025;30/09/2025;Desa Kertasari;Indonesia;FigueiraDaFoz;Portugal;Wandis McGifford;65;STCW A-II/1;NS Lusitania 997;cargueiro;11951;F;17385;177576
+199;14687,68;11/09/2024;26/10/2024;Portela;Portugal;FigueiraDaFoz;Portugal;Moritz Teaser;38;Pilotage;NS Lusitania 997;graneleiro;8836;F;10072;169384
+200;18014,16;19/09/2025;15/11/2025;Congkar;Indonesia;FigueiraDaFoz;Portugal;Bella Piatkow;48;Yachtmaster;MV-TAG-0363;graneleiro;9311;M;10442;144692
+201;34164,74;04/06/2025;02/07/2025;Ariana;Tunisia;FigueiraDaFoz;Portugal;Oswald Boick;52;CoC Class 1;MV-LUS-0013;ro-ro;11173;F;6844;37438
+202;6886,13;09/09/2024;18/10/2024;Milwaukee;United States;FigueiraDaFoz;Portugal;Rice Beggs;49;STCW A-II/2;MV Atlântida 390;cargueiro;8737;F;17617;123946
+203;1071,24;28/10/2025;12/11/2025;El Paso;United States;FigueiraDaFoz;Portugal;Pavel Crowley;68;Pilotage;MV Caravela 715;graneleiro;2390;M;2870;10308
+204;26822,27;24/11/2025;29/11/2025;Raas;Indonesia;FigueiraDaFoz;Portugal;Heddi McGilvra;55;Yachtmaster;MV-LUS-0493;graneleiro;18317;F;5496;73235
+205;41384,36;05/04/2025;24/04/2025;Besuki;Indonesia;FigueiraDaFoz;Portugal;Nels Cranstone;59;STCW A-II/2;MV-LUS-0570;petroleiro;18722;M;36;195737
+206;37927,11;22/08/2025;09/10/2025;Tangub;Philippines;FigueiraDaFoz;Portugal;Adams Foyston;47;CoC Class 1;MV Atlântida 390;petroleiro;5239;M;14657;193307
+207;10038,29;28/07/2024;05/09/2024;Xinchengzi;China;FigueiraDaFoz;Portugal;Isobel Eskrigg;38;STCW A-II/2;MV Atlântida 390;cargueiro;7497;F;18373;47155
+208;32923,99;29/08/2025;10/09/2025;Bukomansimbi;Uganda;FigueiraDaFoz;Portugal;Gabbie Dovinson;48;CoC Class 1;MV-GLO-0341;container;1853;M;1809;174552
+209;2131,67;11/02/2025;22/03/2025;Ciheras;Indonesia;FigueiraDaFoz;Portugal;Tanhya Drakeford;33;CoC Class 1;MV-GLO-0045;graneleiro;868;M;4337;92820
+210;4296,72;23/01/2024;12/03/2024;Suileng;China;FigueiraDaFoz;Portugal;Itch Strangeway;28;CoC Class 2;MT Argonauta 722;graneleiro;8028;F;4904;98443
+211;11379,32;13/10/2025;10/12/2025;Boksitogorsk;Russia;FigueiraDaFoz;Portugal;Claribel Toombs;53;STCW A-II/2;NS Lusitania 997;graneleiro;5640;M;11543;78549
+212;9407,5;01/12/2024;04/01/2025;Pio Duran;Philippines;FigueiraDaFoz;Portugal;Jania Ranns;50;Pilotage;MV Argonauta 734;petroleiro;17156;F;333;114305
+213;11708,31;02/11/2025;18/12/2025;Ferbane;Ireland;FigueiraDaFoz;Portugal;Joelle Fulmen;33;STCW A-II/2;MV Caravela 715;container;7268;M;4850;184167
+214;40765,44;10/03/2025;27/03/2025;Gaiyang;China;FigueiraDaFoz;Portugal;Katy Trulock;64;Pilotage;MV-LUS-0013;graneleiro;6000;M;4856;97849
+215;34908,49;18/04/2024;12/06/2024;Concepcion;Philippines;FigueiraDaFoz;Portugal;Greer Beane;63;STCW A-II/1;MV-NEP-0528;petroleiro;5518;M;9666;66373
+216;2433,85;01/04/2024;19/04/2024;Sugihwaras;Indonesia;FigueiraDaFoz;Portugal;Ottilie Gurnay;57;STCW A-II/1;MT Argonauta 722;cargueiro;15415;F;5677;22679
+217;32351,69;21/06/2024;19/08/2024;Verkhnyaya Toyma;Russia;FigueiraDaFoz;Portugal;Emmie Seagar;43;Yachtmaster;MV-ORI-0025;ro-ro;17071;M;14514;20901
+218;25488,58;19/07/2024;09/09/2024;Charat;Peru;FigueiraDaFoz;Portugal;Cirstoforo Solly;43;Pilotage;NS Lusitania 997;graneleiro;18847;F;3788;88625
+219;27010,12;10/10/2024;24/10/2024;Xiema;China;FigueiraDaFoz;Portugal;Maxine Drakard;34;Pilotage;MV-GLO-0046;petroleiro;6843;M;11058;133949
+220;615,1;09/05/2025;04/07/2025;Yulin;China;FigueiraDaFoz;Portugal;Caressa Camock;36;STCW A-II/2;MV-GLO-0046;cargueiro;9462;F;3814;184724
+221;7030,66;19/08/2024;13/10/2024;Primošten;Croatia;FigueiraDaFoz;Portugal;Nicolette Carrell;46;CoC Class 1;MV-LUS-0013;petroleiro;18943;M;9149;1449
+222;24802,9;08/02/2024;06/04/2024;Wan’an;China;FigueiraDaFoz;Portugal;Cherish Doddemeade;42;Pilotage;MV Atlântida 390;container;679;F;8794;198333
+223;11248,25;16/02/2025;16/03/2025;Iwakuni;Japan;FigueiraDaFoz;Portugal;Kayley Marquot;30;CoC Class 1;MV-LUS-0493;graneleiro;12777;M;8483;124220
+224;16070,79;25/03/2024;23/05/2024;Bahe;China;FigueiraDaFoz;Portugal;Martha Ferdinand;47;CoC Class 1;MV-LUS-0570;container;13881;M;3826;127506
+225;39205,19;06/03/2025;15/04/2025;Bagnolet;France;FigueiraDaFoz;Portugal;Winfred Cockarill;18;Yachtmaster;MV-GLO-0046;ro-ro;13316;M;13309;40775
+226;47334,35;19/07/2024;10/09/2024;Sunchales;Argentina;FigueiraDaFoz;Portugal;Dan Balint;63;Yachtmaster;MV Atlântida 390;ro-ro;4004;M;14345;25580
+227;13399,63;27/05/2025;09/07/2025;Majunying;China;FigueiraDaFoz;Portugal;Roxy Edgett;34;STCW A-II/2;MV-LUS-0570;graneleiro;18280;M;1607;16596
+228;38097,7;27/09/2025;05/11/2025;Baqiu;China;FigueiraDaFoz;Portugal;Monti Mothersdale;34;Pilotage;MV-GLO-0045;petroleiro;14097;M;11492;83657
+229;17872,15;19/12/2025;07/02/2026;Changuillo;Peru;FigueiraDaFoz;Portugal;Daphna Hartill;43;CoC Class 2;MV-GLO-0045;graneleiro;6477;M;13729;5811
+230;1916,87;31/08/2025;28/09/2025;Xiyuan;China;FigueiraDaFoz;Portugal;Conni Quinevan;68;STCW A-II/1;MV-ORI-0025;cargueiro;6789;F;15029;34163
+231;17045,82;10/07/2024;31/07/2024;Gunung;Indonesia;FigueiraDaFoz;Portugal;Porter Choupin;35;STCW A-II/2;MV Caravela 715;petroleiro;5747;F;2714;99559
+232;17661,19;15/10/2025;20/10/2025;Chã;Portugal;FigueiraDaFoz;Portugal;Tiffie Duckit;53;Pilotage;MV-ORI-0025;ro-ro;2640;F;8097;137625
+233;7003,79;22/12/2024;31/12/2024;Qinghaihu;China;FigueiraDaFoz;Portugal;Barrie Gransden;52;Yachtmaster;MV Argonauta 734;ro-ro;4019;M;5308;47644
+234;37987,42;12/05/2025;05/06/2025;San;Mali;FigueiraDaFoz;Portugal;Danita Kembley;27;Pilotage;MV-LUS-0570;cargueiro;11691;M;1345;33826
+235;27486,18;30/08/2025;24/10/2025;Porto Martins;Portugal;FigueiraDaFoz;Portugal;Katharyn Baxstare;43;Yachtmaster;MV-NEP-0528;graneleiro;17656;M;5682;28733
+236;6479,91;30/01/2025;09/03/2025;Luna;Philippines;FigueiraDaFoz;Portugal;Monique Ahrenius;62;Pilotage;MV Atlântida 390;petroleiro;804;M;6947;49980
+237;49980,5;28/04/2024;12/06/2024;Trélazé;France;FigueiraDaFoz;Portugal;Ezmeralda Hearse;26;CoC Class 1;MV-ORI-0025;ro-ro;7663;F;4842;101432
+238;21839,11;11/06/2024;07/07/2024;Billdal;Sweden;FigueiraDaFoz;Portugal;Rosalia Hillen;58;CoC Class 2;MV-LUS-0570;cargueiro;7019;F;18734;47817
+239;40501,79;25/01/2025;04/02/2025;New York City;United States;FigueiraDaFoz;Portugal;Robert Kubat;69;CoC Class 1;MV-TAG-0363;graneleiro;12123;F;7197;151929
+240;4365,45;15/10/2024;12/12/2024;Namboongan;Philippines;FigueiraDaFoz;Portugal;Emili Miall;41;CoC Class 2;MV-GLO-0046;graneleiro;12037;F;5215;15189
+241;20530,09;21/12/2025;05/02/2026;Nanhai;China;FigueiraDaFoz;Portugal;Gearalt Cadore;29;CoC Class 1;MV-LUS-0013;container;7133;M;6362;194426
+242;1708,31;11/03/2025;04/05/2025;Sigayevo;Russia;FigueiraDaFoz;Portugal;Betteann Gammage;27;CoC Class 1;MV-LUS-0013;container;6352;M;19066;173422
+243;32860,46;10/12/2024;13/01/2025;Patrang;Indonesia;FigueiraDaFoz;Portugal;Chere Atwill;25;CoC Class 2;MV-LUS-0570;graneleiro;7344;M;10733;101670
+244;23882,37;05/04/2025;24/05/2025;Wanurian;Indonesia;FigueiraDaFoz;Portugal;Miles Gapper;69;STCW A-II/2;MV-LUS-0013;petroleiro;2298;F;17811;28472
+245;46950,81;06/06/2024;26/07/2024;Täby;Sweden;FigueiraDaFoz;Portugal;Padgett Liepina;28;CoC Class 1;MV-LUS-0013;ro-ro;841;M;11661;48491
+246;14276,44;12/05/2024;10/07/2024;Toledo;Brazil;FigueiraDaFoz;Portugal;Joleen Codman;68;CoC Class 1;MV-ORI-0025;petroleiro;17726;F;6702;9918
+247;2322,21;20/11/2025;30/12/2025;Ghāro;Pakistan;FigueiraDaFoz;Portugal;Alfie Everal;26;CoC Class 2;NS Lusitania 997;ro-ro;4148;M;7337;14074
+248;39495,28;30/09/2025;19/10/2025;Pantai Ceuremen;Indonesia;FigueiraDaFoz;Portugal;Correy Aslet;66;CoC Class 2;MV Caravela 715;ro-ro;15961;M;17704;154620
+249;12040,71;29/07/2024;13/08/2024;Daur;Pakistan;FigueiraDaFoz;Portugal;Annabelle Lemar;38;STCW A-II/1;MV-LUS-0013;petroleiro;12003;F;4041;64502
+250;10089,02;14/05/2024;21/05/2024;Saint-Jérôme;Canada;FigueiraDaFoz;Portugal;Clemmie Cricket;42;STCW A-II/1;MV-LUS-0013;container;4706;F;7579;42788
+251;38542,1;29/04/2024;07/05/2024;Jantake;Indonesia;FigueiraDaFoz;Portugal;Katya Reicherz;30;CoC Class 2;MV Argonauta 734;container;16280;F;17585;110545
+252;44439,44;26/09/2025;06/11/2025;Tajike’abati;China;FigueiraDaFoz;Portugal;Rosene Ainsbury;37;Yachtmaster;MV-GLO-0046;cargueiro;1697;F;19822;97805
+253;4023,01;28/12/2024;10/02/2025;Jandaia do Sul;Brazil;FigueiraDaFoz;Portugal;Nolana Dodgson;19;Yachtmaster;MT Argonauta 722;cargueiro;8998;M;18704;196313
+254;41663,76;02/02/2024;03/03/2024;Benisheikh;Nigeria;FigueiraDaFoz;Portugal;Everard Nieass;67;STCW A-II/1;MV-LUS-0013;graneleiro;16470;M;2603;55833
+255;12315,7;06/08/2024;22/09/2024;Shangying;China;FigueiraDaFoz;Portugal;Gabrila Kember;68;STCW A-II/2;MV-LUS-0013;ro-ro;7355;F;17791;32797
+256;13264,54;26/04/2024;23/05/2024;Lazaro Cardenas;Mexico;FigueiraDaFoz;Portugal;Shirlee McKyrrelly;37;CoC Class 1;MV-LUS-0570;container;2309;F;18404;153317
+257;29485,9;14/08/2025;10/09/2025;Beiyang;China;FigueiraDaFoz;Portugal;Kendal La Grange;56;CoC Class 2;MV-NEP-0528;ro-ro;8161;F;14218;182315
+258;34527,45;08/04/2024;05/06/2024;Sung Noen;Thailand;FigueiraDaFoz;Portugal;Dniren Aldren;30;Pilotage;MV Argonauta 734;graneleiro;4267;M;14230;176437
+259;34766,33;09/08/2025;10/09/2025;Bern;Switzerland;FigueiraDaFoz;Portugal;Paco Phant;60;CoC Class 1;MV-LUS-0013;ro-ro;11768;M;13880;40067
+260;38794,64;13/02/2025;10/03/2025;Myingyan;Myanmar;FigueiraDaFoz;Portugal;Winna Tomkies;55;CoC Class 2;MV-LUS-0013;cargueiro;6307;M;13286;195626
+261;4349,84;11/12/2024;22/12/2024;El Paso;United States;FigueiraDaFoz;Portugal;Pooh Gritten;41;Yachtmaster;MV-LUS-0013;cargueiro;1097;F;17265;161975
+262;8544,6;26/06/2025;19/07/2025;Kista;Sweden;FigueiraDaFoz;Portugal;Gabi Waind;36;CoC Class 2;MV-LUS-0493;graneleiro;14120;M;14061;74343
+263;5350,46;06/02/2024;21/03/2024;Shuiyang;China;FigueiraDaFoz;Portugal;Hamilton Troake;25;STCW A-II/1;NS Lusitania 997;ro-ro;11320;M;2010;8152
+264;13476,88;24/10/2025;29/11/2025;Saint Aubin;Mauritius;FigueiraDaFoz;Portugal;Agata Cocci;53;STCW A-II/1;MV-GLO-0046;graneleiro;9700;F;19587;9891
+265;43591,89;30/12/2025;31/01/2026;Mosjøen;Norway;FigueiraDaFoz;Portugal;Addia Perillio;52;CoC Class 1;MV-LUS-0013;cargueiro;1952;M;18889;124123
+266;13570,23;19/04/2024;30/04/2024;Oslo;Norway;FigueiraDaFoz;Portugal;Genevieve McGraffin;18;STCW A-II/1;NS Lusitania 997;petroleiro;4775;M;13956;77368
+267;27612,82;29/07/2025;27/09/2025;Kalajoki;Finland;FigueiraDaFoz;Portugal;Nathalia Cansdell;37;STCW A-II/1;MV Caravela 715;petroleiro;19401;M;17704;25571
+268;19975,4;23/08/2024;17/10/2024;Tanjungbatu;Indonesia;FigueiraDaFoz;Portugal;Fanya Edgeson;19;CoC Class 2;MV-NEP-0528;graneleiro;8490;F;7132;24869
+269;29943,56;24/07/2025;01/09/2025;Batasan;Philippines;FigueiraDaFoz;Portugal;Danita Robroe;21;CoC Class 2;MV-GLO-0045;graneleiro;6453;M;10802;197657
+270;3917,72;30/10/2024;26/11/2024;Hongshi;China;FigueiraDaFoz;Portugal;Mateo McFadden;57;Pilotage;MV-LUS-0013;cargueiro;363;F;10892;97180
+271;20896,07;23/04/2025;03/06/2025;Vale Mourão;Portugal;FigueiraDaFoz;Portugal;Katerina Peck;39;CoC Class 2;MV-GLO-0341;graneleiro;1372;M;4057;75543
+272;8775,2;01/03/2024;25/03/2024;Bąków;Poland;FigueiraDaFoz;Portugal;Herve Potteridge;67;CoC Class 2;MV-NEP-0528;container;7283;F;17281;196786
+273;36821,69;16/08/2024;30/08/2024;Las Flores;Mexico;FigueiraDaFoz;Portugal;Kaycee Hartland;19;CoC Class 2;MV-GLO-0046;petroleiro;16336;M;5782;130736
+274;35844,54;20/01/2024;02/02/2024;Krajan;Indonesia;FigueiraDaFoz;Portugal;Jorrie Khadir;38;CoC Class 1;MV-TAG-0363;ro-ro;13523;F;6287;104464
+275;15968,1;19/03/2025;30/03/2025;Lyon;France;FigueiraDaFoz;Portugal;Gibb Blacket;33;CoC Class 1;MV Caravela 715;graneleiro;6478;M;10342;121110
+276;49486,71;06/02/2025;06/04/2025;Kesambilerenkrajan;Indonesia;FigueiraDaFoz;Portugal;Flora Stockwell;55;Yachtmaster;MV-LUS-0493;cargueiro;8829;M;18401;93840
+277;43778,66;05/05/2024;01/07/2024;Jiangpan;China;FigueiraDaFoz;Portugal;Karrah MacCurley;53;CoC Class 1;MV Atlântida 390;graneleiro;5659;F;15622;160535
+278;46842,4;12/01/2025;20/01/2025;Copa;Peru;FigueiraDaFoz;Portugal;Bailie Thay;53;Yachtmaster;MV-GLO-0341;graneleiro;15196;F;10277;47685
+279;25195,69;24/01/2025;23/02/2025;Fenchen;China;FigueiraDaFoz;Portugal;Ali Old;32;CoC Class 1;MV-LUS-0013;graneleiro;4684;M;4841;113432
+280;45036,35;18/01/2024;08/02/2024;Selmes;Portugal;FigueiraDaFoz;Portugal;Karin Jermy;38;STCW A-II/2;MV-NEP-0528;petroleiro;6459;F;4926;194833
+281;11079,76;05/02/2024;03/03/2024;Uspenka;Ukraine;FigueiraDaFoz;Portugal;Lissi Neylan;56;STCW A-II/2;MV-LUS-0013;graneleiro;873;F;10201;162053
+282;21910,31;05/12/2025;29/01/2026;Stalbe;Latvia;FigueiraDaFoz;Portugal;Shell Gagie;34;STCW A-II/2;MV-LUS-0013;graneleiro;5705;M;1461;6201
+283;27574,89;18/10/2024;14/12/2024;Baklashi;Russia;FigueiraDaFoz;Portugal;Moss Levick;56;CoC Class 2;MV-GLO-0045;ro-ro;16972;F;16740;94866
+284;4431,77;18/06/2025;26/06/2025;Khandagayty;Russia;FigueiraDaFoz;Portugal;Cleveland Twizell;45;CoC Class 1;MV Argonauta 734;petroleiro;19245;F;12159;169213
+285;39967,84;18/05/2025;28/06/2025;Donduşeni;Moldova;FigueiraDaFoz;Portugal;Teri Sparrowhawk;65;CoC Class 1;MV-LUS-0493;petroleiro;347;M;16389;29721
+286;22780,64;04/09/2025;01/10/2025;Ush-Tyube;Kazakhstan;FigueiraDaFoz;Portugal;Lucius McDonnell;43;STCW A-II/2;MV-TAG-0363;container;6582;F;13779;135536
+287;48425,37;08/09/2025;18/09/2025;Markaryd;Sweden;FigueiraDaFoz;Portugal;Amerigo Jaime;65;CoC Class 1;MV-GLO-0341;petroleiro;19414;F;17268;126656
+288;35496,6;21/05/2024;04/06/2024;Hengshui;China;FigueiraDaFoz;Portugal;Whittaker Frankiss;20;CoC Class 1;MT Argonauta 722;ro-ro;15897;M;12738;114730
+289;2903,95;21/03/2025;07/05/2025;Dapitan;Philippines;FigueiraDaFoz;Portugal;Barnabas Deeming;32;Pilotage;NS Lusitania 997;petroleiro;10955;M;1776;24775
+290;17694,59;03/08/2024;08/08/2024;Ar Rubū‘;Yemen;FigueiraDaFoz;Portugal;Onfre Thunnercliffe;68;CoC Class 1;MV-NEP-0528;cargueiro;7991;F;4869;111196
+291;32885,77;15/08/2024;01/10/2024;Cheban;China;FigueiraDaFoz;Portugal;Terrence Posselwhite;46;CoC Class 1;MV Caravela 715;container;10418;M;288;178104
+292;27672,74;13/04/2024;27/04/2024;Barreiros;Portugal;FigueiraDaFoz;Portugal;Al Blown;26;STCW A-II/1;MV Atlântida 605;cargueiro;11988;M;19453;64276
+293;49396,66;17/04/2024;12/05/2024;El Asintal;Guatemala;FigueiraDaFoz;Portugal;Micki Freer;30;CoC Class 1;MV Atlântida 605;cargueiro;17860;M;9912;185030
+294;20071,88;11/06/2024;07/07/2024;Kawagoe;Japan;FigueiraDaFoz;Portugal;Egon Hearnah;53;Pilotage;MV Caravela 715;ro-ro;2192;M;16762;88257
+295;25484,8;24/06/2025;24/07/2025;Lilin Satu;Indonesia;FigueiraDaFoz;Portugal;Tyson Bigrigg;26;STCW A-II/1;MV Atlântida 605;container;9251;F;4581;171559
+296;25651,03;29/02/2024;16/03/2024;Novyye Cherëmushki;Russia;FigueiraDaFoz;Portugal;Raynell Thebeaud;33;Yachtmaster;MV Caravela 715;ro-ro;456;M;12515;40509
+297;8321,29;16/05/2025;27/05/2025;Masḩah;Palestinian Territory;FigueiraDaFoz;Portugal;Kory Rodge;41;CoC Class 1;MV-LUS-0570;container;12183;M;18253;22212
+298;34770,15;21/02/2025;12/04/2025;Mufulira;Zambia;FigueiraDaFoz;Portugal;Ethan Ramard;64;STCW A-II/1;MV Caravela 715;petroleiro;7266;M;8428;197881
+299;45669,42;16/03/2024;06/04/2024;Muzhijie;China;FigueiraDaFoz;Portugal;Jo Risso;39;STCW A-II/2;MV-GLO-0046;graneleiro;12827;F;2331;70881
+300;42437,5;10/02/2025;11/04/2025;Yulin;China;FigueiraDaFoz;Portugal;Ethe Dyott;59;CoC Class 2;MT Argonauta 722;container;2926;M;8254;70
+301;22793,33;03/08/2024;23/09/2024;Fenglin;China;FigueiraDaFoz;Portugal;Jed Iceton;22;STCW A-II/1;MV Caravela 715;petroleiro;18929;M;7341;199371
+302;49275,28;05/08/2024;21/08/2024;Hallsberg;Sweden;FigueiraDaFoz;Portugal;Deina Solomon;36;STCW A-II/2;MV-LUS-0013;graneleiro;15508;M;3971;134862
+303;29961,5;17/01/2024;25/02/2024;Plyussa;Russia;FigueiraDaFoz;Portugal;Katinka Surman;48;STCW A-II/1;NS Lusitania 997;graneleiro;19957;M;8188;77458
+304;21239,86;09/01/2024;06/02/2024;Touho;New Caledonia;FigueiraDaFoz;Portugal;Zena Malicki;20;STCW A-II/2;MV-ORI-0025;petroleiro;6754;M;14961;12175
+305;46587,35;13/10/2024;20/10/2024;Yamaguchi-shi;Japan;FigueiraDaFoz;Portugal;Luciana Di Bernardo;20;STCW A-II/1;MV Argonauta 734;ro-ro;15455;F;15414;143463
+306;10280,49;14/12/2024;16/01/2025;Yuhang;China;FigueiraDaFoz;Portugal;Christian Ghidotti;58;STCW A-II/2;MV-LUS-0570;cargueiro;9587;F;9161;80927
+307;28881,32;05/07/2025;26/07/2025;Valday;Russia;FigueiraDaFoz;Portugal;Jarrett Traske;21;Yachtmaster;MV Argonauta 734;cargueiro;9717;M;13537;64256
+308;26157,8;13/05/2024;06/06/2024;Jiukeng;China;FigueiraDaFoz;Portugal;Francis Oldland;19;Yachtmaster;MV-TAG-0363;ro-ro;11615;F;9174;139043
+309;47623,6;01/10/2025;06/11/2025;Campos Sales;Brazil;FigueiraDaFoz;Portugal;Becky Lamberton;38;STCW A-II/2;MV-NEP-0528;graneleiro;3380;M;14247;47763
+310;43691,15;27/09/2024;18/10/2024;Al Khushnīyah;Syria;FigueiraDaFoz;Portugal;Brandice Gatrill;54;STCW A-II/1;MV Atlântida 390;petroleiro;18957;M;8346;55100
+311;22077,04;18/07/2025;08/08/2025;Chenzhouzhai;China;FigueiraDaFoz;Portugal;Ulrikaumeko Nibley;45;Pilotage;MV-GLO-0046;petroleiro;2770;F;14921;174774
+312;3109,53;19/01/2024;26/02/2024;Salitrillos;Costa Rica;FigueiraDaFoz;Portugal;Marcia Roelofsen;42;Yachtmaster;MV-ORI-0025;graneleiro;15834;M;8663;7961
+313;9633,28;14/11/2025;29/12/2025;Makiyivka;Ukraine;FigueiraDaFoz;Portugal;Jaymie Boas;69;Yachtmaster;MV-LUS-0013;graneleiro;6752;M;15083;69446
+314;16029,38;08/07/2024;17/07/2024;Skoroszyce;Poland;FigueiraDaFoz;Portugal;Bent Lusher;63;CoC Class 1;MV-TAG-0363;petroleiro;947;M;19059;175253
+315;25159,01;28/12/2025;30/01/2026;Chajarí;Argentina;FigueiraDaFoz;Portugal;Romy Rayman;61;STCW A-II/2;MT Argonauta 722;graneleiro;14221;F;19813;42940
+316;45238,38;01/07/2024;26/08/2024;Armenta;Honduras;FigueiraDaFoz;Portugal;Clyde Raveau;30;Yachtmaster;MV Argonauta 734;petroleiro;1736;F;1318;48045
+317;46693,63;14/12/2025;09/02/2026;Stari Bohorodchany;Ukraine;FigueiraDaFoz;Portugal;Hewet Eberz;57;CoC Class 2;MV-GLO-0046;graneleiro;7472;M;6233;98079
+318;26503,18;03/04/2025;21/05/2025;Maslovare;Bosnia and Herzegovina;FigueiraDaFoz;Portugal;Bert Stile;69;CoC Class 1;MV Caravela 715;petroleiro;11122;F;11156;105510
+319;22777,43;04/09/2024;29/10/2024;Tomaszów Lubelski;Poland;FigueiraDaFoz;Portugal;Egan Prestner;68;CoC Class 2;MV-LUS-0493;graneleiro;18778;M;7401;112385
+320;5084,27;25/05/2025;22/06/2025;Bulqizë;Albania;FigueiraDaFoz;Portugal;Kally Smaleman;43;STCW A-II/2;NS Lusitania 997;cargueiro;2410;F;14976;121313
+321;5557,7;22/06/2024;18/07/2024;Xiangzhou;China;FigueiraDaFoz;Portugal;Jeannine Figgins;70;Yachtmaster;MV-NEP-0528;container;12301;F;19137;18916
+322;46402,94;19/01/2025;14/02/2025;Igaraçu do Tietê;Brazil;FigueiraDaFoz;Portugal;Janis Rizzo;29;Yachtmaster;MV-ORI-0025;ro-ro;17984;F;7642;87880
+323;27532,5;22/10/2024;04/11/2024;Velké Karlovice;Czech Republic;FigueiraDaFoz;Portugal;Georgi Cudmore;34;CoC Class 1;MV Atlântida 390;ro-ro;17159;F;1543;185629
+324;3859,33;19/07/2024;13/09/2024;Smyga;Ukraine;FigueiraDaFoz;Portugal;Bev Witherup;35;CoC Class 2;MV-LUS-0013;ro-ro;6591;F;4705;87850
+325;4729,04;01/09/2025;27/09/2025;Huiwan;China;FigueiraDaFoz;Portugal;Nedda Rogan;30;STCW A-II/2;MV-NEP-0528;cargueiro;17785;F;984;144273
+326;40747,35;24/01/2025;15/02/2025;Anahawan;Philippines;FigueiraDaFoz;Portugal;Moise Soffe;44;Yachtmaster;MV-LUS-0013;petroleiro;15597;F;6326;37253
+327;28240,85;04/06/2024;26/06/2024;Pizarrete;Dominican Republic;FigueiraDaFoz;Portugal;Cilka Billes;47;Yachtmaster;MV-LUS-0013;cargueiro;7786;F;5826;123226
+328;19691,3;23/01/2024;12/02/2024;Las Tunas;Cuba;FigueiraDaFoz;Portugal;Goddart Santon;28;Yachtmaster;MV-GLO-0341;container;13028;M;11368;16614
+329;36230,86;25/06/2025;05/08/2025;San Pedro;Mexico;FigueiraDaFoz;Portugal;Juliann Sueter;31;Yachtmaster;MV-LUS-0570;cargueiro;16835;M;17187;67289
+330;40975,91;21/08/2024;09/10/2024;Khān Neshīn;Afghanistan;FigueiraDaFoz;Portugal;Axel Kupka;52;CoC Class 2;MV-ORI-0025;container;4689;M;18302;133975
+331;32311,25;09/03/2025;26/03/2025;Mianhu;China;FigueiraDaFoz;Portugal;Aldon MacNish;55;STCW A-II/1;MV Argonauta 734;ro-ro;16667;F;6074;182626
+332;29750;26/01/2025;20/03/2025;Wanshan;China;FigueiraDaFoz;Portugal;Matteo Woodberry;68;STCW A-II/2;MV Caravela 715;ro-ro;14118;M;4217;116248
+333;8368,36;06/02/2024;13/03/2024;Tatsunochō-tominaga;Japan;FigueiraDaFoz;Portugal;Lucina Eyton;23;CoC Class 2;MV-LUS-0013;graneleiro;19401;M;2573;43039
+334;25125,54;05/01/2025;17/02/2025;Hamhŭng;North Korea;FigueiraDaFoz;Portugal;Consuelo Wewell;43;Pilotage;MV-NEP-0528;petroleiro;12039;M;9203;196422
+335;15798,86;20/11/2024;07/12/2024;Shanhou;China;FigueiraDaFoz;Portugal;Helge Reynold;45;Pilotage;MV Caravela 715;petroleiro;15443;M;209;78439
+336;36412,16;23/04/2025;24/05/2025;Dodola;Ethiopia;FigueiraDaFoz;Portugal;Rollie Kornilyev;33;Yachtmaster;MV-GLO-0341;graneleiro;7219;F;18678;105592
+337;33362,74;05/06/2024;22/07/2024;Belica;Croatia;FigueiraDaFoz;Portugal;Marillin Crutchley;46;STCW A-II/2;MV Atlântida 605;container;15263;F;1823;51522
+338;9563,31;02/08/2025;29/09/2025;Haihui;China;FigueiraDaFoz;Portugal;Caspar Shorbrook;25;Pilotage;MV Atlântida 390;container;785;M;5893;17718
+339;7692,7;29/03/2025;14/05/2025;Santa Isabel;Brazil;FigueiraDaFoz;Portugal;Judie Wherton;25;Yachtmaster;NS Lusitania 997;container;18566;M;6131;94268
+340;36241,43;02/03/2024;02/04/2024;Saint-Julien-en-Genevois;France;FigueiraDaFoz;Portugal;Carlene Seden;28;CoC Class 1;MV-LUS-0570;container;15596;M;13258;97765
+341;43760,54;18/03/2024;01/04/2024;Biruinţa;Moldova;FigueiraDaFoz;Portugal;Deva Vicarey;30;Yachtmaster;MV-LUS-0013;container;9630;F;8069;100796
+342;29804,67;11/06/2025;06/08/2025;Nyköping;Sweden;FigueiraDaFoz;Portugal;Isidor Boddington;24;Yachtmaster;MT Argonauta 722;graneleiro;6935;F;87;30451
+343;20415,27;09/09/2024;07/10/2024;Nagornyy;Russia;FigueiraDaFoz;Portugal;Jeromy MacLaughlin;33;Pilotage;MV-GLO-0341;ro-ro;811;M;9810;41404
+344;15019,94;19/05/2024;22/06/2024;Progër;Albania;FigueiraDaFoz;Portugal;Sadie Farnaby;50;Pilotage;MV-GLO-0045;ro-ro;83;F;18216;173945
+345;11542;15/01/2025;25/02/2025;La Falda;Argentina;FigueiraDaFoz;Portugal;Ann Pearn;40;CoC Class 2;MV-ORI-0025;ro-ro;10587;M;17466;89058
+346;34494,61;09/10/2025;07/11/2025;Jinshan;China;FigueiraDaFoz;Portugal;Lucas Pirnie;33;CoC Class 2;MV Caravela 715;container;11559;M;1985;97321
+347;31260,48;14/01/2025;19/02/2025;Bal’shavik;Belarus;FigueiraDaFoz;Portugal;Mart Kearns;43;STCW A-II/1;MV-NEP-0528;cargueiro;5987;M;12039;116426
+348;30630,88;20/01/2025;27/01/2025;Shuanghekou;China;FigueiraDaFoz;Portugal;Karlotte Biagi;63;CoC Class 1;MV-NEP-0528;ro-ro;7558;M;5352;173938
+349;45776,42;23/07/2024;08/09/2024;Rendeng;Indonesia;FigueiraDaFoz;Portugal;Willetta Fewster;45;STCW A-II/2;MV-LUS-0013;cargueiro;2973;M;18465;78802
+350;33317,4;31/12/2024;09/02/2025;Concepción;Colombia;FigueiraDaFoz;Portugal;Marji Montrose;58;CoC Class 1;NS Lusitania 997;petroleiro;2516;M;5351;101146
+351;36479,05;11/01/2025;15/02/2025;Bacong;Philippines;FigueiraDaFoz;Portugal;Bab Law;25;CoC Class 1;MV Atlântida 605;graneleiro;3459;F;2757;55287
+352;34967,7;30/08/2024;17/10/2024;Kharlu;Russia;FigueiraDaFoz;Portugal;Elayne Goolden;32;CoC Class 1;MV-GLO-0046;ro-ro;3139;F;15203;2802
+353;38495,23;02/10/2025;13/11/2025;Jintan;China;FigueiraDaFoz;Portugal;Harman Lange;31;Pilotage;MV-LUS-0013;graneleiro;10645;M;9810;14356
+354;27736,92;13/03/2025;24/04/2025;Annan;China;FigueiraDaFoz;Portugal;Corby Letts;64;STCW A-II/2;MV-ORI-0025;ro-ro;13129;F;3298;96506
+355;6137,66;10/02/2024;29/02/2024;Gabaldon;Philippines;FigueiraDaFoz;Portugal;Brnaby Faers;47;Pilotage;MV-GLO-0046;petroleiro;64;F;12892;37951
+356;46467,47;18/06/2025;24/06/2025;Dongdu;China;FigueiraDaFoz;Portugal;Janifer Kornes;57;CoC Class 2;MV-NEP-0528;container;2365;F;3918;115222
+357;7251,08;03/01/2024;13/01/2024;Bundibugyo;Uganda;FigueiraDaFoz;Portugal;Davita Korneichuk;60;CoC Class 1;MV-GLO-0341;container;2154;F;14079;37404
+358;22226,83;08/09/2025;30/09/2025;Nakhabino;Russia;FigueiraDaFoz;Portugal;Tish Erwin;39;STCW A-II/2;MV Argonauta 734;cargueiro;4960;F;16209;56931
+359;32536,69;19/11/2025;05/12/2025;Sam Roi Yot;Thailand;FigueiraDaFoz;Portugal;Minnaminnie Tanton;59;Yachtmaster;MV-GLO-0341;graneleiro;13971;M;2444;140215
+360;16043,16;20/12/2025;24/01/2026;Huangtugang;China;FigueiraDaFoz;Portugal;Trixie Farnham;25;Yachtmaster;MV Atlântida 390;cargueiro;17852;M;17208;108614
+361;29751,65;30/04/2024;12/05/2024;Donabate;Ireland;FigueiraDaFoz;Portugal;Lebbie Rutland;68;STCW A-II/2;MV Atlântida 605;container;1960;F;7976;62899
+362;30902,17;08/10/2024;30/11/2024;Falāvarjān;Iran;FigueiraDaFoz;Portugal;Sondra Dyne;22;Yachtmaster;MV-ORI-0025;ro-ro;12579;F;3326;748
+363;35227,85;22/02/2025;15/03/2025;Xingpinglu;China;FigueiraDaFoz;Portugal;Germana Sollowaye;34;Yachtmaster;MV-GLO-0046;graneleiro;9746;F;5354;76767
+364;31334,99;13/03/2025;26/04/2025;Oliver;Canada;FigueiraDaFoz;Portugal;Issie Stubbert;48;CoC Class 2;MV Argonauta 734;cargueiro;3237;F;9112;197070
+365;37960,35;03/02/2024;19/02/2024;Tertek;Indonesia;FigueiraDaFoz;Portugal;Martica Thaim;33;CoC Class 1;MV Argonauta 734;cargueiro;5778;F;4630;3255
+366;45542,64;11/08/2025;06/09/2025;Sérvia;Greece;FigueiraDaFoz;Portugal;Jerrine Creamer;64;Pilotage;MV-NEP-0528;ro-ro;15128;M;13017;116967
+367;43857,62;31/08/2024;19/09/2024;Labao;China;FigueiraDaFoz;Portugal;Birk Heindrich;69;CoC Class 1;MV-LUS-0013;container;2770;F;17065;129826
+368;25418,45;30/03/2025;10/04/2025;Urzuf;Ukraine;FigueiraDaFoz;Portugal;Rhoda Wagon;63;Yachtmaster;MV-LUS-0493;graneleiro;8501;M;8441;100915
+369;27057,58;11/02/2024;14/03/2024;Kochetok;Ukraine;FigueiraDaFoz;Portugal;Antonietta Count;21;CoC Class 2;MV-GLO-0045;ro-ro;6370;F;8110;49743
+370;11273,91;16/07/2024;24/07/2024;Guanli;China;FigueiraDaFoz;Portugal;Brittany Upwood;68;STCW A-II/1;MV-TAG-0363;ro-ro;147;F;14092;165548
+371;45456,9;04/02/2024;10/03/2024;Gammad;Philippines;FigueiraDaFoz;Portugal;Udale Dochon;34;STCW A-II/2;MV-LUS-0570;ro-ro;6188;F;16087;186236
+372;34135,77;07/04/2024;27/04/2024;Meget;Russia;FigueiraDaFoz;Portugal;Adda Sandom;42;STCW A-II/2;MV Caravela 715;cargueiro;546;F;16770;141205
+373;12294,29;07/07/2025;03/09/2025;Pulo;Philippines;FigueiraDaFoz;Portugal;Odelinda Cino;23;CoC Class 1;MV-LUS-0013;graneleiro;2146;F;17001;191838
+374;5797,94;17/02/2025;22/03/2025;Piru;Indonesia;FigueiraDaFoz;Portugal;Alicea Farfoot;43;STCW A-II/2;MV-LUS-0013;graneleiro;15539;M;11656;190034
+375;19599,57;23/07/2025;05/09/2025;Nardaran;Azerbaijan;FigueiraDaFoz;Portugal;Kirstin Camies;31;Pilotage;MV-NEP-0528;cargueiro;6532;M;644;62924
+376;11111,33;08/12/2025;18/12/2025;Montonggamang;Indonesia;FigueiraDaFoz;Portugal;Audi Taree;53;Pilotage;MV Caravela 715;ro-ro;19832;M;3780;198312
+377;45246,22;23/06/2024;24/07/2024;Kuliyapitiya;Sri Lanka;FigueiraDaFoz;Portugal;Elysee Grigoriscu;45;CoC Class 2;MV-GLO-0045;cargueiro;2748;F;8576;92601
+378;39342,21;10/11/2025;11/12/2025;Damayan;Philippines;FigueiraDaFoz;Portugal;Kyla Reynoldson;51;STCW A-II/2;MV Atlântida 605;container;14439;M;16088;195616
+379;49329,71;13/02/2024;09/03/2024;Memphis;United States;FigueiraDaFoz;Portugal;Mariel McCathie;70;CoC Class 2;NS Lusitania 997;ro-ro;924;M;372;39735
+380;44609,34;15/12/2025;30/12/2025;Talisay;Philippines;FigueiraDaFoz;Portugal;Kalvin Works;70;STCW A-II/1;MV-LUS-0013;petroleiro;12455;F;15457;35420
+381;18545,96;01/03/2024;08/04/2024;Ciela Lebak;Indonesia;FigueiraDaFoz;Portugal;Cele Alliston;64;CoC Class 1;MV-GLO-0045;petroleiro;8631;M;828;123153
+382;25577,24;13/03/2025;29/04/2025;Fatou;China;FigueiraDaFoz;Portugal;Dominique Peschka;53;STCW A-II/1;MV-LUS-0570;petroleiro;11878;F;17098;131509
+383;29358,76;06/07/2025;24/07/2025;Barbacena;Brazil;FigueiraDaFoz;Portugal;Fonzie Brant;56;CoC Class 1;MV-TAG-0363;cargueiro;6739;M;3443;135335
+384;11552,58;03/06/2025;19/06/2025;Ndom;Cameroon;FigueiraDaFoz;Portugal;Coletta Dehm;54;Pilotage;NS Lusitania 997;ro-ro;4767;M;913;3799
+385;33858,95;30/11/2025;21/12/2025;Živinice;Bosnia and Herzegovina;FigueiraDaFoz;Portugal;Anatollo Tustin;34;CoC Class 2;MV-LUS-0013;cargueiro;19318;M;19687;27915
+386;20407,04;27/11/2025;03/12/2025;Okazaki;Japan;FigueiraDaFoz;Portugal;Farica Ashment;60;CoC Class 2;MV-GLO-0046;container;3202;F;5111;160613
+387;11338,57;09/09/2025;22/09/2025;Nowy Korczyn;Poland;FigueiraDaFoz;Portugal;Geri Keough;45;STCW A-II/1;MV Argonauta 734;petroleiro;19465;F;5246;19422
+388;23466,12;11/02/2024;10/03/2024;Volokolamsk;Russia;FigueiraDaFoz;Portugal;Johnette Shelmardine;57;STCW A-II/1;MV-GLO-0046;petroleiro;505;M;4445;183260
+389;20934,44;03/06/2024;12/07/2024;Bududa;Uganda;FigueiraDaFoz;Portugal;Brian Fiddian;55;Yachtmaster;MV-ORI-0025;graneleiro;638;M;13267;35962
+390;45468,4;14/01/2024;02/03/2024;Hōjō;Japan;FigueiraDaFoz;Portugal;Mariana Leathwood;43;CoC Class 1;MV Atlântida 605;graneleiro;14271;M;466;179097
+391;6651,96;16/08/2024;15/10/2024;Pavlovsk;Russia;FigueiraDaFoz;Portugal;Natalina Froom;33;CoC Class 1;MV Atlântida 390;ro-ro;4322;F;1146;178064
+392;36764,54;06/09/2025;23/10/2025;Margoyoso;Indonesia;FigueiraDaFoz;Portugal;Pet McLardie;58;Pilotage;MV-GLO-0045;ro-ro;18208;M;6154;36263
+393;33501,43;20/10/2024;27/11/2024;San Rafael Petzal;Guatemala;FigueiraDaFoz;Portugal;Quill Bartholat;63;CoC Class 1;MT Argonauta 722;graneleiro;14808;F;19650;154375
+394;31928,67;27/04/2025;16/06/2025;Radā‘;Yemen;FigueiraDaFoz;Portugal;Freeman Kift;70;CoC Class 2;MV-TAG-0363;container;11369;M;9072;4648
+395;45980,32;12/02/2025;19/03/2025;Horní Cerekev;Czech Republic;FigueiraDaFoz;Portugal;Elliot Di Maria;25;Yachtmaster;MV Caravela 715;ro-ro;13922;M;4947;140468
+396;45701,8;22/01/2025;21/02/2025;Kaustinen;Finland;FigueiraDaFoz;Portugal;Aime Clemits;37;CoC Class 1;MV Argonauta 734;graneleiro;8844;F;1644;81112
+397;20082,31;04/07/2024;11/07/2024;Mendī;Ethiopia;FigueiraDaFoz;Portugal;Si Arnowicz;21;STCW A-II/1;MV Atlântida 605;ro-ro;1607;F;10654;81296
+398;36409,66;10/01/2025;21/01/2025;Mikulovice;Czech Republic;FigueiraDaFoz;Portugal;Zak Hagerty;54;CoC Class 2;MV-NEP-0528;graneleiro;17194;M;14486;120716
+399;36637,16;19/01/2025;09/02/2025;Carrazeda de Ansiães;Portugal;FigueiraDaFoz;Portugal;Berkeley Correa;43;STCW A-II/2;NS Lusitania 997;ro-ro;10765;F;13290;109217
+400;44459,87;31/07/2024;25/08/2024;Sakata;Japan;FigueiraDaFoz;Portugal;Basilio Allanson;21;CoC Class 1;NS Lusitania 997;petroleiro;16115;M;3986;71389
+401;23578,52;23/01/2025;26/02/2025;Guantang;China;FigueiraDaFoz;Portugal;Ward Ege;28;Yachtmaster;MV-ORI-0025;petroleiro;14799;F;10647;114158
+402;38433,04;26/08/2024;22/10/2024;Étampes;France;FigueiraDaFoz;Portugal;Lucais Bearn;55;STCW A-II/1;MV-GLO-0045;petroleiro;18900;F;15141;141890
+403;13376,58;21/11/2025;23/12/2025;Kufayrit;Palestinian Territory;FigueiraDaFoz;Portugal;Edvard Moffett;49;Pilotage;MV Atlântida 390;ro-ro;5424;F;8122;14547
+404;10676,48;26/08/2025;16/09/2025;Salgueiro;Brazil;FigueiraDaFoz;Portugal;Rowan Cardoo;44;Yachtmaster;MV Atlântida 605;cargueiro;15740;F;10643;45025
+405;7196,11;13/09/2024;19/09/2024;Sonta;Serbia;FigueiraDaFoz;Portugal;Ezekiel Lenard;41;Yachtmaster;MT Argonauta 722;ro-ro;19816;F;4873;64308
+406;31983,16;28/12/2025;01/02/2026;Nowa Sarzyna;Poland;FigueiraDaFoz;Portugal;Diandra Shortell;38;Yachtmaster;NS Lusitania 997;ro-ro;4969;M;8834;5979
+407;33581,44;16/05/2025;30/06/2025;Maunggora;Indonesia;FigueiraDaFoz;Portugal;Antin Duckitt;46;CoC Class 2;MV Atlântida 605;petroleiro;8924;M;14236;192240
+408;27081,9;11/04/2025;28/05/2025;Starobachaty;Russia;FigueiraDaFoz;Portugal;Ciel Blanning;42;Yachtmaster;MT Argonauta 722;petroleiro;6504;F;15326;47622
+409;16064,52;03/01/2025;08/02/2025;Parada de Todeia;Portugal;FigueiraDaFoz;Portugal;Tim Yeell;33;CoC Class 2;MV-NEP-0528;container;10502;M;10831;53424
+410;45783,95;01/02/2025;02/04/2025;Jiangchuanlu;China;FigueiraDaFoz;Portugal;Benito Kloisner;31;STCW A-II/2;MV-ORI-0025;container;9973;F;573;187945
+411;22023,06;24/10/2025;07/12/2025;Yarang;Thailand;FigueiraDaFoz;Portugal;Pyotr Santore;30;Yachtmaster;MV-NEP-0528;petroleiro;12309;M;10143;2356
+412;19032,95;02/01/2024;17/02/2024;Tomice;Poland;FigueiraDaFoz;Portugal;Shina Biggadyke;57;Yachtmaster;MV-LUS-0493;ro-ro;2327;M;5352;159505
+413;11820,91;09/06/2025;14/06/2025;Matagbak;Philippines;FigueiraDaFoz;Portugal;Gustavus Calyton;67;STCW A-II/1;MV-NEP-0528;ro-ro;6613;F;527;162040
+414;7555,44;13/03/2025;04/05/2025;Usuki;Japan;FigueiraDaFoz;Portugal;King Gethings;46;CoC Class 2;MV Caravela 715;ro-ro;15475;F;12953;86509
+415;5148,13;06/02/2025;15/03/2025;Pasto;Colombia;FigueiraDaFoz;Portugal;Marlon Kerley;25;Yachtmaster;MV-GLO-0046;ro-ro;18015;M;13934;38730
+416;43201,92;31/05/2025;12/07/2025;Gennevilliers;France;FigueiraDaFoz;Portugal;Dalis Weighell;38;Pilotage;NS Lusitania 997;graneleiro;10879;F;19806;36234
+417;20206,81;16/06/2024;22/07/2024;Bugis;Indonesia;FigueiraDaFoz;Portugal;Bogey Pobjoy;51;CoC Class 1;MV-ORI-0025;ro-ro;19581;M;8728;79123
+418;9456,91;27/04/2025;17/05/2025;Cibalieur;Indonesia;FigueiraDaFoz;Portugal;Dietrich Hogbourne;63;CoC Class 1;NS Lusitania 997;container;199;M;19549;155420
+419;26026,03;16/12/2025;22/01/2026;Netolice;Czech Republic;FigueiraDaFoz;Portugal;Fabio Cabera;18;STCW A-II/2;MV-LUS-0493;petroleiro;5479;M;17644;140612
+420;35319,16;21/06/2024;26/07/2024;Liqizhuang;China;FigueiraDaFoz;Portugal;Cary Drable;56;Yachtmaster;MV-GLO-0045;graneleiro;2206;F;8840;60126
+421;9577,87;30/11/2024;31/12/2024;Anhai;China;FigueiraDaFoz;Portugal;Wendeline Bradburne;43;CoC Class 2;NS Lusitania 997;ro-ro;11641;F;6880;17654
+422;28415,98;06/06/2025;22/06/2025;Miragaia;Portugal;FigueiraDaFoz;Portugal;Janey Digg;39;CoC Class 2;MT Argonauta 722;graneleiro;7118;M;5955;109424
+423;35841,69;28/06/2025;14/07/2025;Shilin;China;FigueiraDaFoz;Portugal;Clive Bartol;23;CoC Class 2;MV Caravela 715;cargueiro;8164;M;5834;178267
+424;3660,45;26/11/2024;10/01/2025;Buenavista;Philippines;FigueiraDaFoz;Portugal;Kara Goodwins;34;Pilotage;MV-LUS-0013;graneleiro;14118;M;19125;155702
+425;1102,53;03/09/2025;03/10/2025;Shanhou;China;FigueiraDaFoz;Portugal;Felicity Barber;18;STCW A-II/2;MV-TAG-0363;cargueiro;14007;F;2817;52041
+426;3957,66;04/06/2024;10/07/2024;Chigorodó;Colombia;FigueiraDaFoz;Portugal;Rickard Fanthome;69;Yachtmaster;MV-LUS-0013;ro-ro;6389;F;7499;123617
+427;25343,1;16/07/2025;21/07/2025;Envigado;Colombia;FigueiraDaFoz;Portugal;Osmund Bayliss;59;STCW A-II/2;MV-ORI-0025;petroleiro;16095;M;9960;4077
+428;29591,43;13/11/2025;25/11/2025;Ambelón;Greece;FigueiraDaFoz;Portugal;Mahalia Baden;28;Yachtmaster;MV-GLO-0045;ro-ro;17538;F;9513;114490
+429;11770,6;10/10/2024;12/11/2024;Auki;Solomon Islands;FigueiraDaFoz;Portugal;Reina Cars;21;CoC Class 1;MT Argonauta 722;graneleiro;12714;M;3949;125662
+430;29320,39;26/01/2025;11/03/2025;Ashgabat;Turkmenistan;FigueiraDaFoz;Portugal;Janos Beiderbeck;49;Yachtmaster;MV-LUS-0013;container;5861;F;10534;73098
+431;48155,83;02/04/2025;16/05/2025;Tsalgar;Mongolia;FigueiraDaFoz;Portugal;Seana Kiwitz;62;STCW A-II/2;MV-LUS-0570;container;2468;M;5937;139703
+432;26836,57;11/11/2025;18/11/2025;Valença;Brazil;FigueiraDaFoz;Portugal;Akim Gaymer;19;STCW A-II/1;MV-LUS-0493;cargueiro;14467;M;8876;48761
+433;6820,3;10/06/2025;03/08/2025;Bomomani;Indonesia;FigueiraDaFoz;Portugal;Dominga Heninghem;29;CoC Class 2;MV Atlântida 605;container;13693;M;15230;73941
+434;8340,26;20/11/2024;05/01/2025;Port Elizabeth;Saint Vincent and the Grenadines;FigueiraDaFoz;Portugal;Issiah Cestard;64;CoC Class 2;NS Lusitania 997;cargueiro;4084;M;17022;35027
+435;18697,44;20/09/2025;25/10/2025;Guanyinsi;China;FigueiraDaFoz;Portugal;Moore Pedwell;47;CoC Class 1;MV Atlântida 605;graneleiro;19915;F;3834;46081
+436;28453,64;30/07/2025;08/09/2025;Shu;Kazakhstan;FigueiraDaFoz;Portugal;Maire Meriot;67;Pilotage;MV-GLO-0046;container;13221;F;4844;44929
+437;37862,85;30/03/2024;03/05/2024;Alor Setar;Malaysia;FigueiraDaFoz;Portugal;Veronike Shallcross;23;Yachtmaster;MT Argonauta 722;graneleiro;1194;M;13727;105005
+438;29367,69;07/02/2024;28/03/2024;Dukou;China;FigueiraDaFoz;Portugal;Mathias Brahmer;60;STCW A-II/2;MV-GLO-0045;cargueiro;6622;F;15939;48621
+439;24191,14;23/06/2025;13/07/2025;Pangao;Philippines;FigueiraDaFoz;Portugal;Michel Lewens;27;Pilotage;MV-TAG-0363;petroleiro;19813;M;12275;24814
+440;5820,62;03/10/2025;02/12/2025;Buensuseso;Philippines;FigueiraDaFoz;Portugal;Fay Cadman;51;STCW A-II/2;MV-LUS-0570;cargueiro;18526;F;6759;119034
+441;30817,83;14/07/2024;09/08/2024;Guanban;China;FigueiraDaFoz;Portugal;Jamey Tukely;60;STCW A-II/2;MV-NEP-0528;cargueiro;14306;M;9069;79780
+442;23032,29;15/02/2025;24/03/2025;Tarikolot;Indonesia;FigueiraDaFoz;Portugal;Perrine Dewett;49;CoC Class 2;MV-LUS-0013;graneleiro;591;F;17994;91315
+443;29612,05;28/08/2024;29/09/2024;Windsor;Canada;FigueiraDaFoz;Portugal;Editha Janas;24;CoC Class 1;MV-LUS-0570;ro-ro;12210;M;18264;136151
+444;49802,56;08/11/2025;21/11/2025;Longford;Ireland;FigueiraDaFoz;Portugal;Godfree Elijah;29;STCW A-II/2;MV-LUS-0013;ro-ro;3926;F;12399;145565
+445;2066,68;14/03/2024;31/03/2024;Long Beluah;Indonesia;FigueiraDaFoz;Portugal;Kata Newis;54;CoC Class 2;MV Argonauta 734;petroleiro;16982;M;13018;122316
+446;42311,02;06/12/2024;17/12/2024;Walichnowy;Poland;FigueiraDaFoz;Portugal;Alvira Moggan;45;Yachtmaster;MV-LUS-0013;cargueiro;4174;M;7264;184767
+447;26945,26;02/10/2025;13/11/2025;Zapala;Argentina;FigueiraDaFoz;Portugal;Evie Garley;59;CoC Class 2;MV-GLO-0341;container;13679;F;672;19431
+448;22712,78;02/09/2024;21/09/2024;Villamontes;Bolivia;FigueiraDaFoz;Portugal;Raimondo Pringour;33;Yachtmaster;MV-NEP-0528;petroleiro;14016;M;10490;62247
+449;4846,59;27/05/2024;12/07/2024;Fenhe;China;FigueiraDaFoz;Portugal;Carla Verson;48;CoC Class 2;MV-LUS-0013;container;4234;M;4495;126324
+450;3906,46;18/05/2025;17/07/2025;Kristiansand S;Norway;FigueiraDaFoz;Portugal;Gale Bowry;59;Pilotage;MV-NEP-0528;cargueiro;18074;F;14497;129554
+451;30574,1;04/09/2024;25/09/2024;Chŏngju;North Korea;FigueiraDaFoz;Portugal;Blanche Okroy;53;CoC Class 1;MV-GLO-0045;ro-ro;15028;F;1507;103589
+452;47335,93;01/02/2024;24/02/2024;Castlebellingham;Ireland;FigueiraDaFoz;Portugal;Malorie Roskelly;31;STCW A-II/1;MV-LUS-0013;ro-ro;14700;M;2714;165431
+453;22538,22;11/02/2025;26/02/2025;Cerro;Cuba;FigueiraDaFoz;Portugal;Isabella Kynd;48;CoC Class 1;MV-LUS-0013;ro-ro;6247;F;10101;105582
+454;44909,75;21/06/2024;27/07/2024;Shuyuan;China;FigueiraDaFoz;Portugal;Jaclyn Trevna;53;CoC Class 2;MV Argonauta 734;petroleiro;10416;M;19893;50124
+455;42891,55;14/05/2025;11/07/2025;Dadamtu;China;FigueiraDaFoz;Portugal;Victoir Rate;41;STCW A-II/1;MV-GLO-0341;graneleiro;8519;F;7848;87241
+456;2826,16;12/01/2024;31/01/2024;Sangmélima;Cameroon;FigueiraDaFoz;Portugal;Jelene Dyball;60;STCW A-II/2;MV Argonauta 734;cargueiro;7831;M;16939;38959
+457;24100,64;30/09/2025;11/11/2025;Mubi;Nigeria;FigueiraDaFoz;Portugal;Barth Stelfax;30;STCW A-II/2;MV-GLO-0046;graneleiro;15941;F;13346;186562
+458;48641,33;01/12/2024;17/01/2025;Krasnyy Luch;Ukraine;FigueiraDaFoz;Portugal;Adina Densun;51;Pilotage;MV Atlântida 390;ro-ro;19170;M;4585;12252
+459;3119,53;21/05/2024;23/06/2024;Piggotts;Antigua and Barbuda;FigueiraDaFoz;Portugal;Pandora Phippard;34;STCW A-II/2;MV Atlântida 390;cargueiro;12717;M;16958;133825
+460;49307,55;13/10/2024;07/12/2024;Huoshaoping;China;FigueiraDaFoz;Portugal;Maryellen Braniff;44;STCW A-II/2;MV-LUS-0493;petroleiro;1387;M;8901;140913
+461;16564,99;04/02/2025;24/03/2025;Xiyuan;China;FigueiraDaFoz;Portugal;Adelind Charlton;66;STCW A-II/1;MV-GLO-0045;ro-ro;2091;F;16473;15484
+462;46886,37;02/06/2024;16/06/2024;Chejiazhuang;China;FigueiraDaFoz;Portugal;Cazzie Navarijo;25;STCW A-II/2;MV-GLO-0045;container;2535;M;2632;162927
+463;40620,85;18/07/2024;02/09/2024;Pailou;China;FigueiraDaFoz;Portugal;Evvy Harris;62;CoC Class 1;MV-LUS-0013;cargueiro;13211;M;19697;25237
+464;45040,89;21/05/2025;11/07/2025;Tochigi;Japan;FigueiraDaFoz;Portugal;Monique Hopkins;49;CoC Class 2;MV-TAG-0363;petroleiro;15793;F;7151;156250
+465;41268,45;12/01/2024;19/02/2024;Saukkola;Finland;FigueiraDaFoz;Portugal;Stephannie Arbuckle;66;Pilotage;MV-LUS-0013;petroleiro;18036;M;13265;149799
+466;38044,83;04/12/2024;02/01/2025;Kultayevo;Russia;FigueiraDaFoz;Portugal;Suzanna Youthead;42;STCW A-II/1;MV-GLO-0045;container;1138;M;1081;181184
+467;29164,32;27/09/2024;31/10/2024;Härnösand;Sweden;FigueiraDaFoz;Portugal;Hale Tibbetts;26;CoC Class 2;MV-LUS-0013;container;15067;M;3624;98685
+468;47774,81;05/05/2025;28/06/2025;Wlingi;Indonesia;FigueiraDaFoz;Portugal;Jeri Baison;33;STCW A-II/2;MV-NEP-0528;petroleiro;670;M;14532;151254
+469;5405,1;02/11/2025;21/11/2025;Boto;Indonesia;FigueiraDaFoz;Portugal;Dagmar Birchenhead;67;Yachtmaster;MV Caravela 715;graneleiro;1643;F;18002;106992
+470;23972,41;06/02/2024;05/04/2024;Balogo;Philippines;FigueiraDaFoz;Portugal;Marci Fairham;58;STCW A-II/1;MV-NEP-0528;graneleiro;17195;M;9955;168760
+471;17422,78;22/06/2025;12/08/2025;Parychy;Belarus;FigueiraDaFoz;Portugal;Callie Fackney;68;Yachtmaster;MV Atlântida 390;cargueiro;14121;F;12612;148158
+472;13212,21;19/01/2025;20/02/2025;Sukadami;Indonesia;FigueiraDaFoz;Portugal;Bradford Abba;63;CoC Class 1;MV-LUS-0013;cargueiro;7348;M;10444;22198
+473;19124,96;05/02/2025;04/03/2025;Dalupirip;Philippines;FigueiraDaFoz;Portugal;Bowie Kunzel;63;Yachtmaster;MV-LUS-0013;petroleiro;5099;M;7297;128415
+474;40687,84;22/12/2025;05/02/2026;Uttaradit;Thailand;FigueiraDaFoz;Portugal;Lezlie Faulconer;55;Yachtmaster;MV-LUS-0570;graneleiro;1790;M;13534;103904
+475;3980,11;09/09/2024;02/11/2024;Yono;Japan;FigueiraDaFoz;Portugal;Modestia Deegin;69;CoC Class 2;MV-LUS-0013;petroleiro;8114;F;8810;32267
+476;13889,24;22/09/2024;13/10/2024;Gandusari;Indonesia;FigueiraDaFoz;Portugal;Dagmar Schole;25;STCW A-II/1;MV-GLO-0045;ro-ro;15330;M;16135;120472
+477;47859,33;01/11/2025;14/11/2025;Puerto Guzmán;Colombia;FigueiraDaFoz;Portugal;Hyacintha Craise;23;Yachtmaster;MV Atlântida 390;ro-ro;17989;M;17050;106130
+478;26809,51;22/06/2025;25/07/2025;Pieksämäki;Finland;FigueiraDaFoz;Portugal;Suzi Hintzer;19;Pilotage;MV-TAG-0363;petroleiro;7799;F;6809;145473
+479;3520,08;14/08/2024;22/08/2024;Maliuzui;China;FigueiraDaFoz;Portugal;Cicily Killner;48;STCW A-II/2;MV Atlântida 605;cargueiro;8799;F;11146;197775
+480;48385,6;21/04/2024;06/06/2024;Erdaojiang;China;FigueiraDaFoz;Portugal;Caril Sowley;33;CoC Class 2;MV-LUS-0013;petroleiro;7568;F;4048;101551
+481;4164,17;16/10/2025;16/11/2025;Bulu;Indonesia;FigueiraDaFoz;Portugal;Kaela Stratford;40;Pilotage;MV Caravela 715;cargueiro;872;F;6036;87125
+482;16680,62;23/11/2024;31/12/2024;Zhinvali;Georgia;FigueiraDaFoz;Portugal;Dottie Gillivrie;45;STCW A-II/1;MV-LUS-0493;cargueiro;13696;M;12426;55074
+483;49400,72;06/09/2024;18/09/2024;As Sūq al Jadīd;Yemen;FigueiraDaFoz;Portugal;Korey Carlesi;40;STCW A-II/2;MV-LUS-0493;ro-ro;13440;F;3318;42832
+484;13641,35;27/11/2024;15/12/2024;Kruengraya;Indonesia;FigueiraDaFoz;Portugal;Pat Luck;43;STCW A-II/1;MV-GLO-0046;container;11668;F;8293;80612
+485;35008,36;21/10/2024;28/11/2024;Shibirghān;Afghanistan;FigueiraDaFoz;Portugal;Julius Blogg;34;STCW A-II/1;NS Lusitania 997;ro-ro;2488;F;14975;196286
+486;6849,58;18/10/2025;11/11/2025;Tongjing;China;FigueiraDaFoz;Portugal;Moyna Amyes;61;Yachtmaster;MV-NEP-0528;petroleiro;6870;F;1741;75775
+487;48345,28;07/04/2025;01/06/2025;Kafr al Labad;Palestinian Territory;FigueiraDaFoz;Portugal;Lynette Hailwood;46;Pilotage;MV-LUS-0493;graneleiro;1065;F;13417;140108
+488;16306,37;27/03/2024;13/04/2024;Ukata;Nigeria;FigueiraDaFoz;Portugal;Tome Nystrom;53;Yachtmaster;MV-GLO-0046;petroleiro;15912;F;6116;61766
+489;23042,52;13/03/2025;21/04/2025;Amarete;Bolivia;FigueiraDaFoz;Portugal;Izabel Signoret;69;STCW A-II/2;MV-GLO-0045;petroleiro;1501;F;9046;124710
+490;47502,01;26/08/2024;10/10/2024;Fairview;Ireland;FigueiraDaFoz;Portugal;Cherilyn Copas;38;STCW A-II/2;MV Atlântida 390;petroleiro;2443;F;3538;124731
+491;9887,33;31/03/2025;04/05/2025;Dovhe;Ukraine;FigueiraDaFoz;Portugal;Burr Pencot;52;Pilotage;MV Atlântida 390;graneleiro;2204;F;6701;38247
+492;29518,04;01/08/2024;05/09/2024;Qızılhacılı;Azerbaijan;FigueiraDaFoz;Portugal;Kakalina Cousens;52;CoC Class 2;MV-TAG-0363;cargueiro;18695;F;7363;62692
+493;25198,86;17/02/2024;12/04/2024;Dumingag;Philippines;FigueiraDaFoz;Portugal;Jereme Strewther;55;STCW A-II/1;MV-GLO-0045;petroleiro;13085;F;4834;88919
+494;34379,46;06/12/2024;25/12/2024;Chinú;Colombia;FigueiraDaFoz;Portugal;Rees Kendall;30;Yachtmaster;MV-LUS-0013;cargueiro;1146;M;8968;56993
+495;35434,39;20/11/2025;06/12/2025;Sirib;Philippines;FigueiraDaFoz;Portugal;Luce Bevar;19;Yachtmaster;MT Argonauta 722;ro-ro;5055;M;11829;97989
+496;20901,6;20/02/2025;07/04/2025;Yongping;China;FigueiraDaFoz;Portugal;Aurel Syde;26;CoC Class 1;MV-TAG-0363;petroleiro;14895;F;8961;98138
+497;39857,84;22/08/2024;27/09/2024;Caleufú;Argentina;FigueiraDaFoz;Portugal;Nanice Spitaro;34;STCW A-II/2;MV-NEP-0528;cargueiro;7213;F;8380;149380
+498;334,25;02/01/2024;08/01/2024;Doibang;Indonesia;FigueiraDaFoz;Portugal;Victor Dark;21;Yachtmaster;MV Caravela 715;petroleiro;2051;M;6988;146142
+499;26594,18;12/11/2025;06/12/2025;Aglipay;Philippines;FigueiraDaFoz;Portugal;Bruce Coopland;27;CoC Class 2;MV-LUS-0493;cargueiro;10412;M;865;168774
+500;32874,16;03/08/2025;29/09/2025;Hluhluwe;South Africa;FigueiraDaFoz;Portugal;Nicolai Kubala;51;STCW A-II/2;MV-LUS-0493;ro-ro;9043;M;18846;6042
